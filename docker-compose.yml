@@ -1,0 +1,17 @@
+services:
+  python:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.python
+    volumes:
+      - ./src/python:/app/src
+      - ./data:/app/data
+    env_file: .env
+
+  rust:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.rust
+    volumes:
+      - ./data:/app/data
+    env_file: .env
