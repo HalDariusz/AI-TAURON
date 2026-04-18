@@ -236,7 +236,7 @@ ZARZĄD TAURON POLSKA ENERGIA
 │ Zespół R&D           (stały)              │ Licencja roczna + aktualizacje         │
 │ Ekspertyza prawna    (zmienny)            │ SLA / wsparcie techniczne              │
 │ Nowe typy umów       (zmienny)            │ Rozszerzenie: EV, PPA, prosumer        │
-│ Licencje OSS         0 PLN               │ Szkolenia compliance                   │
+│ Licencje OSS         0 PLN                │ Szkolenia compliance                   │
 │ ISAP API             bezpłatne            │                                        │
 │                                           │ CAPEX IT z budżetu cyfryzacji TAURON   │
 │                                           │ (100 mld zł CAPEX 2024-2035)           │

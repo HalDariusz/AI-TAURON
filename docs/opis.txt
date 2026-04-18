@@ -1,0 +1,124 @@
+AlICjA — AI Context Analisator ("Ciocia ALA")
+===============================================
+
+Automatyczna analiza zgodności umów z klientami z przepisami prawa energetycznego.
+
+ETHSilesia Hackathon 2026
+Zespół: Dariusz Nowak, Błażej Krząkała, Klaudyna (Claude AI)
+Repozytorium: https://github.com/HalDariusz/AI-TAURON
+Demo LIVE: http://95.217.89.69:8501
+
+
+PROBLEM
+-------
+TAURON obsługuje 5,8 mln klientów i zarządza setkami wzorców umów (OWU, umowy
+sprzedaży, dystrybucji, kompleksowe). Każda nowelizacja Prawa energetycznego,
+ustawy o prawach konsumenta czy decyzji URE wymaga ręcznej rewizji dokumentów
+— proces trwający tygodnie, angażujący prawników i narażony na ludzki błąd.
+Niezgodność umów grozi karami URE (do 15% przychodu) i UOKiK (do 10% obrotu).
+
+
+ROZWIĄZANIE
+-----------
+AlICjA ("Ciocia ALA") to AI asystent compliance, który automatycznie analizuje
+umowy klauzula po klauzuli, porównując je z bazą aktów prawnych. System wykrywa
+niezgodności, ocenia ich wagę (critical/high/medium/low) i generuje rekomendacje
+zmian — w minutach zamiast tygodni.
+
+Każdy raport compliance jest rejestrowany w blockchainie (Hyperledger Fabric)
+jako niezmienny dowód wykonania analizy — idealny audit trail dla kontroli
+regulatora (URE/UOKiK).
+
+
+JAK TO DZIAŁA
+-------------
+1. Użytkownik wgrywa dokument (PDF/DOCX/TXT) przez interfejs "Ciocia ALA"
+2. System parsuje dokument z zachowaniem struktury prawnej (artykuły, paragrafy)
+3. RAG pipeline wyszukuje powiązane przepisy z bazy aktów prawnych
+4. Polski model LLM analizuje zgodność każdej klauzuli z przepisami
+5. Raport z listą niezgodności, severity i rekomendacjami
+6. Hash raportu rejestrowany on-chain w prywatnym blockchainie
+
+
+STACK TECHNOLOGICZNY
+--------------------
+- LLM: Bielik 11B v3.0 (SpeakLeash) — natywnie polski, on-premise, CPU inference
+- RAG: LlamaIndex + mmlw-roberta-large (1024-dim embeddings)
+- Vector DB: Qdrant
+- Baza danych: PostgreSQL 17
+- Blockchain: Hyperledger Fabric 2.5 (chaincode w Go)
+- API: FastAPI + uvicorn
+- Frontend: Streamlit ("Ciocia ALA" — 6 stron: start, upload, analiza, raporty, blockchain, status)
+- MLOps: MLflow (tracking eksperymentów, wersjonowanie promptów)
+- Document parsing: Docling (IBM) + pdfplumber
+- Infrastruktura: Docker Compose, on-premise deployment
+
+
+KLUCZOWE CECHY
+--------------
+- 100% on-premise — żadne dane nie opuszczają infrastruktury (RODO)
+- Blockchain audit trail — niezmienny dowód compliance (Hyperledger Fabric)
+- Structure-aware chunking — respektuje hierarchię dokumentów prawnych
+- Dwufazowa analiza — wykrywa błędy W klauzulach + BRAKUJĄCE sekcje
+- MLflow tracking — pełna powtarzalność i porównywalność analiz
+- Polski model AI — Bielik trenowany na polskich tekstach prawnych
+
+
+ZBIEŻNOŚĆ ZE STRATEGIĄ TAURON 2025-2035
+----------------------------------------
+- Cyfrowa transformacja: AI compliance = element ekosystemu cyfrowych narzędzi
+- Klient w centrum uwagi: eliminacja klauzul abuzywnych, wzrost NPS
+- ESG / Governance: blockchain audit trail = Dobre Praktyki GPW
+- Skalowalność: od 200 OWU do 5,8 mln umów — ten sam system
+- Nowe produkty: compliance taryf dynamicznych, PPA, prosumer, EV
+
+
+KORZYŚCI BIZNESOWE
+------------------
+- 20x szybsza analiza compliance (tygodnie → minuty)
+- ROI ~9x w pierwszym roku (~3,6 mln zł korzyści vs ~400K zł kosztów)
+- Mitygacja ryzyk kar regulacyjnych (URE do 15% przychodu, UOKiK do 10% obrotu)
+- Blockchain TAURON — naturalne dopasowanie do istniejącej infrastruktury
+- Compliance-as-a-service dla wszystkich Business Units
+
+
+DANE TESTOWE
+------------
+System zawiera 10 syntetycznych dokumentów testowych:
+- 2 akty prawne (Prawo energetyczne, Ustawa o prawach konsumenta) — z ISAP
+- 3 OWU (1 zgodne + 2 z naruszeniami)
+- 5 umów (2 zgodne + 3 z naruszeniami)
+- 17 osadzonych naruszeń compliance z ground-truth dataset
+
+
+DEPLOYMENT
+----------
+System jest wdrożony i działa na serwerze hal (Ubuntu 24.04, 12 cores, 125 GB RAM):
+- Ciocia ALA (frontend): http://95.217.89.69:8501
+- FastAPI (REST API): http://95.217.89.69:8000
+- MLflow (tracking): http://95.217.89.69:5000
+- Swagger (API docs): http://95.217.89.69:8000/docs
+
+Instalacja:
+  git clone https://github.com/HalDariusz/AI-TAURON.git
+  cd AI-TAURON
+  ./scripts/install.sh install
+  ./scripts/install.sh start
+
+
+AUTORZY
+-------
+Dariusz Nowak — Architekt & Business Development
+  Architektura systemu, strategia biznesowa, analiza compliance,
+  integracja ze strategią TAURON
+
+Błażej Krząkała — DevOps
+  Infrastruktura, deployment, Docker, Hyperledger Fabric, CI/CD
+
+Klaudyna (Claude) — AI Assistant
+  Wsparcie AI: kodowanie, RAG pipeline, generacja dokumentacji, analiza strategii
+
+
+AlICjA "Ciocia ALA" — AI Context Analisator
+ETHSilesia Hackathon 2026
+https://github.com/HalDariusz/AI-TAURON
