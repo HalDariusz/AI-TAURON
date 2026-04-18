@@ -9,7 +9,7 @@ build/
 venv/
 *.egg
 
-# Rust
+# Rust (not used in MVP, kept for future)
 target/
 Cargo.lock
 
@@ -25,10 +25,16 @@ Cargo.lock
 *.swo
 
 # Data
-data/*.csv
-data/*.parquet
-data/*.json
+data/**/*.csv
+data/**/*.parquet
+data/**/*.json
+data/**/*.pdf
+data/**/*.docx
 !data/.gitkeep
+
+# Test fixtures (versioned)
+!tests/fixtures/
+!tests/fixtures/**
 
 # Docker
 docker/*.log

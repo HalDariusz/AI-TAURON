@@ -3,12 +3,41 @@ name = "ai-tauron"
 version = "0.1.0"
 description = "AI-TAURON"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    # RAG framework
+    "llama-index>=0.12",
+    "llama-index-vector-stores-qdrant>=0.4",
+    "llama-index-llms-ollama>=0.5",
+    "llama-index-embeddings-huggingface>=0.5",
+    # MLOps
+    "mlflow>=2.18",
+    # Vector DB
+    "qdrant-client>=1.12",
+    # Document processing
+    "docling>=2.14",
+    "pdfplumber>=0.11",
+    # Embeddings
+    "sentence-transformers>=3.3",
+    # API
+    "fastapi>=0.115",
+    "uvicorn>=0.34",
+    "python-multipart>=0.0.18",
+    "pydantic-settings>=2.7",
+    # Observability
+    "langfuse>=2.50",
+    # Persistence
+    "asyncpg>=0.30",
+    "sqlalchemy[asyncio]>=2.0",
+]
 
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0",
     "ruff>=0.4",
+    "httpx>=0.28",
+]
+ui = [
+    "streamlit>=1.40",
 ]
 
 [tool.ruff]
@@ -20,3 +49,7 @@ select = ["E", "F", "W", "I", "N", "UP"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests/python"]
+markers = [
+    "integration: requires running infrastructure services",
+    "e2e: end-to-end API tests",
+]

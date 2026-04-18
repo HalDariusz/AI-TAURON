@@ -1,0 +1,483 @@
+================================================================================
+             UMOWA KOMPLEKSOWA SPRZEDAŻY ENERGII ELEKTRYCZNEJ
+              I ŚWIADCZENIA USŁUG DYSTRYBUCJI ENERGII ELEKTRYCZNEJ
+                              Nr EK/2025/08/00531
+================================================================================
+
+Zawarta w dniu 5 lipca 2025 r. w Sosnowcu pomiędzy:
+
+MegaWat Energia sp. z o.o. z siedzibą w Łodzi, ul. Piotrkowska 270,
+90-361 Łódź, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego
+prowadzonego przez Sąd Rejonowy dla Łodzi-Śródmieścia w Łodzi, XX Wydział
+Gospodarczy Krajowego Rejestru Sądowego pod numerem KRS 0000512847,
+NIP: 7282804591, REGON: 101438726, kapitał zakładowy: 42 000 000,00 zł,
+posiadającą koncesję na obrót energią elektryczną nr OEE/478/18276/W/2/2018/MK
+z dnia 12 marca 2018 r. wydaną przez Prezesa Urzędu Regulacji Energetyki,
+reprezentowaną przez:
+    - Roberta Jankowskiego — Wiceprezesa Zarządu
+    - Agatę Szymańską — Prokurenta (prokura łączna)
+zwaną dalej „Dostawcą",
+
+a
+
+Adamem Lewandowskim, zamieszkałym przy ul. Piłsudskiego 88/3, 41-200
+Sosnowiec, PESEL: 75042367891, legitymującym się dowodem osobistym seria
+GHI nr 234567,
+zwanym dalej „Odbiorcą",
+
+łącznie zwanymi „Stronami", a każda z osobna „Stroną".
+
+Zważywszy, że:
+- Dostawca posiada koncesję na obrót energią elektryczną oraz zawarł
+  Generalną Umowę Dystrybucji (GUD) z właściwym Operatorem Systemu
+  Dystrybucyjnego (TAURON Dystrybucja S.A.), umożliwiającą świadczenie
+  usług kompleksowych;
+- Odbiorca zamierza korzystać z energii elektrycznej na potrzeby
+  gospodarstwa domowego i wyraża wolę zawarcia umowy kompleksowej obejmującej
+  zarówno sprzedaż energii elektrycznej, jak i świadczenie usług dystrybucji;
+
+Strony zawierają Umowę o następującej treści:
+
+
+§ 1. PRZEDMIOT UMOWY
+
+1. Przedmiotem niniejszej Umowy jest kompleksowe świadczenie usług
+   obejmujących sprzedaż energii elektrycznej oraz zapewnienie świadczenia
+   usługi dystrybucji energii elektrycznej przez Dostawcę na rzecz Odbiorcy
+   do punktu poboru energii (PPE) zlokalizowanego pod adresem:
+   ul. Piłsudskiego 88/3, 41-200 Sosnowiec.
+
+2. Numer punktu poboru energii (PPE): PL_ZEWD_1413056789_04.
+
+3. Dostawca zobowiązuje się do:
+   a) sprzedaży energii elektrycznej w ilości odpowiadającej zapotrzebowaniu
+      Odbiorcy w danym okresie rozliczeniowym;
+   b) zapewnienia świadczenia usługi dystrybucji energii elektrycznej
+      przez właściwego Operatora Systemu Dystrybucyjnego na podstawie
+      Generalnej Umowy Dystrybucji.
+
+4. Odbiorca zobowiązuje się do odbioru energii elektrycznej i zapłaty za
+   pobraną energię elektryczną oraz za usługi dystrybucji na warunkach
+   określonych w niniejszej Umowie.
+
+5. Energia elektryczna dostarczana jest na potrzeby gospodarstwa domowego
+   Odbiorcy (odbiorca w grupie taryfowej G — grupa przyłączeniowa IV).
+
+6. Moc przyłączeniowa dla PPE wynosi 17 kW, napięcie znamionowe 230/400 V,
+   zabezpieczenie przedlicznikowe: 32 A.
+
+7. Planowane roczne zużycie energii elektrycznej w punkcie poboru energii
+   wynosi szacunkowo 4 500 kWh.
+
+
+§ 2. DEFINICJE
+
+Na potrzeby niniejszej Umowy poniższe pojęcia mają następujące znaczenie:
+
+1. „Energia elektryczna" — energia w rozumieniu ustawy z dnia 10 kwietnia
+   1997 r. — Prawo energetyczne (Dz. U. z 2024 r. poz. 266 z późn. zm.),
+   zwanej dalej „Prawem energetycznym" lub „PE".
+
+2. „Umowa kompleksowa" — umowa zawierająca postanowienia umowy sprzedaży
+   energii elektrycznej i umowy o świadczenie usług dystrybucji, o której
+   mowa w art. 5 ust. 3 Prawa energetycznego.
+
+3. „Punkt poboru energii" (PPE) — miejsce w sieci elektroenergetycznej,
+   w którym dokonywany jest pomiar ilości energii elektrycznej dostarczanej
+   do instalacji Odbiorcy, identyfikowane unikalnym kodem PPE.
+
+4. „Operator Systemu Dystrybucyjnego" (OSD) — TAURON Dystrybucja S.A.,
+   przedsiębiorstwo energetyczne posiadające koncesję na dystrybucję energii
+   elektrycznej, odpowiedzialne za ruch sieciowy w systemie dystrybucyjnym.
+
+5. „Generalna Umowa Dystrybucji" (GUD) — umowa zawarta pomiędzy Dostawcą
+   a OSD, regulująca warunki świadczenia usług dystrybucji na rzecz
+   Odbiorców Dostawcy.
+
+6. „Taryfa" — zbiór cen i stawek opłat oraz warunków ich stosowania,
+   zatwierdzony przez Prezesa Urzędu Regulacji Energetyki (URE).
+
+7. „Grupa taryfowa" — grupa Odbiorców korzystających z energii elektrycznej,
+   dla których stosuje się jeden zestaw cen i stawek opłat oraz warunków
+   ich stosowania.
+
+8. „Okres rozliczeniowy" — przedział czasu, za który dokonywane jest
+   rozliczenie należności z tytułu sprzedaży energii elektrycznej oraz usług
+   dystrybucji.
+
+9. „Układ pomiarowo-rozliczeniowy" — liczniki i inne urządzenia pomiarowe
+   zainstalowane w PPE, stanowiące własność OSD.
+
+10. „Cennik" — zbiór cen i stawek opłat za energię elektryczną stosowany
+    przez Dostawcę, zatwierdzony przez Prezesa URE lub publikowany zgodnie
+    z obowiązującymi przepisami prawa.
+
+11. „IRiESD" — Instrukcja Ruchu i Eksploatacji Sieci Dystrybucyjnej,
+    zatwierdzona przez Prezesa URE.
+
+
+§ 3. WARUNKI SPRZEDAŻY ENERGII ELEKTRYCZNEJ I ŚWIADCZENIA USŁUG DYSTRYBUCJI
+
+1. Dostawca sprzedaje energię elektryczną i zapewnia świadczenie usługi
+   dystrybucji Odbiorcy zgodnie z:
+   a) obowiązującymi przepisami prawa, w tym Prawem energetycznym oraz
+      aktami wykonawczymi;
+   b) warunkami niniejszej Umowy;
+   c) obowiązującą taryfą lub cennikiem Dostawcy;
+   d) Taryfą OSD zatwierdzoną przez Prezesa URE;
+   e) Generalną Umową Dystrybucji zawartą pomiędzy Dostawcą a OSD;
+   f) Instrukcją Ruchu i Eksploatacji Sieci Dystrybucyjnej (IRiESD).
+
+2. Sprzedaż energii elektrycznej i świadczenie usług dystrybucji odbywa się
+   w grupie taryfowej G12 (dwustrefowa — dzienna/nocna).
+
+3. Rozpoczęcie sprzedaży energii elektrycznej i świadczenia usług dystrybucji
+   nastąpi z dniem 1 sierpnia 2025 r., pod warunkiem skutecznego
+   przeprowadzenia procedury zmiany sprzedawcy, o ile dotyczy.
+
+4. Odbiorca jest przyłączony do sieci dystrybucyjnej TAURON Dystrybucja S.A.
+   na napięciu 230/400 V.
+
+5. Odbiorca zobowiązany jest do:
+   a) pobierania energii elektrycznej zgodnie z obowiązującymi przepisami,
+      warunkami Umowy oraz IRiESD;
+   b) utrzymywania instalacji odbiorczej w należytym stanie technicznym;
+   c) niezwłocznego informowania Dostawcy o wszelkich zmianach danych
+      osobowych, adresu korespondencyjnego oraz wszelkich okolicznościach
+      mogących mieć wpływ na realizację Umowy;
+   d) udostępniania nieruchomości w celu przeprowadzenia kontroli, odczytów
+      oraz prac eksploatacyjnych przez upoważnionych przedstawicieli OSD;
+   e) nienaruszania plomb i zabezpieczeń układu pomiarowo-rozliczeniowego.
+
+
+§ 4. CENA I WARUNKI PŁATNOŚCI
+
+
+1. Cena energii elektrycznej jest określona w Taryfie Dostawcy oznaczonej
+   jako „Taryfa G12-2023", zatwierdzonej decyzją Prezesa Urzędu Regulacji
+   Energetyki nr DRE.WRE.4211.15.4.2023.JKo z dnia 14 grudnia 2023 r.
+   Stawki opłat za usługi dystrybucji są określone w Taryfie OSD.
+
+2. Na dzień zawarcia Umowy ceny i stawki opłat w grupie taryfowej G12
+   wynoszą:
+
+   A. Sprzedaż energii elektrycznej:
+   a) cena za energię elektryczną czynną — strefa dzienna: 0,6815 zł/kWh
+      netto;
+   b) cena za energię elektryczną czynną — strefa nocna: 0,3742 zł/kWh
+      netto;
+   c) opłata handlowa: 8,00 zł/miesiąc netto.
+
+   B. Usługi dystrybucji:
+   a) stawka sieciowa (składnik zmienny) — strefa dzienna: 0,2014 zł/kWh
+      netto;
+   b) stawka sieciowa (składnik zmienny) — strefa nocna: 0,0513 zł/kWh
+      netto;
+   c) stawka sieciowa (składnik stały): 9,48 zł/miesiąc netto;
+   d) stawka jakościowa: 0,0133 zł/kWh netto;
+   e) opłata abonamentowa: 4,80 zł/miesiąc netto;
+   f) opłata OZE: 0,0026 zł/kWh netto;
+   g) opłata mocowa: 0,0762 zł/kWh netto;
+   h) opłata kogeneracyjna: 0,0058 zł/kWh netto.
+
+
+3. Rozliczenia za pobraną energię elektryczną i usługi dystrybucji
+   dokonywane są w okresach rozliczeniowych wynoszących trzy miesiące
+   kalendarzowe (kwartalnie). Faktura VAT jest wystawiana po zakończeniu
+   każdego kwartału kalendarzowego, w terminie do 21 dni od zakończenia
+   okresu rozliczeniowego.
+
+4. Do cen i stawek opłat, o których mowa w ust. 2, doliczany jest podatek
+   od towarów i usług (VAT) w obowiązującej stawce (na dzień zawarcia
+   Umowy: 23%) oraz podatek akcyzowy (na dzień zawarcia Umowy: 5,00 zł/MWh).
+
+
+5. Dostawca zastrzega sobie prawo do zmiany ceny energii elektrycznej
+   w każdym czasie, z 7-dniowym wyprzedzeniem, poprzez opublikowanie nowego
+   cennika na stronie internetowej Dostawcy. Kontynuowanie poboru energii
+   elektrycznej po wejściu w życie nowego cennika jest równoznaczne
+   z akceptacją nowych cen przez Odbiorcę.
+
+6. Odbiorca zobowiązany jest do zapłaty należności wynikających z faktury
+   w terminie 14 dni od daty wystawienia faktury, przelewem na rachunek
+   bankowy Dostawcy wskazany na fakturze.
+
+7. W przypadku opóźnienia w zapłacie Dostawca jest uprawniony do naliczania
+   odsetek ustawowych za opóźnienie zgodnie z art. 481 Kodeksu cywilnego.
+
+8. Dostawca może wystawiać prognozy (faktury prognozowe) w okresach
+   pomiędzy fakturami rozliczeniowymi. Prognozy są rozliczane z fakturą
+   wystawioną na podstawie odczytu rzeczywistego.
+
+9. Odbiorca może dokonać wyboru formy otrzymywania faktur:
+   a) w formie papierowej — przesyłanej na adres korespondencyjny Odbiorcy;
+   b) w formie elektronicznej (e-faktura) — przesyłanej na adres e-mail
+      Odbiorcy.
+
+
+§ 5. PRAWA I OBOWIĄZKI STRON
+
+1. Dostawca jest zobowiązany do:
+   a) sprzedaży energii elektrycznej oraz zapewnienia świadczenia usługi
+      dystrybucji zgodnie z warunkami niniejszej Umowy oraz obowiązującymi
+      przepisami prawa;
+   b) informowania Odbiorcy o zmianach cen, stawek opłat oraz warunków
+      sprzedaży i dystrybucji;
+   c) rozpatrywania reklamacji Odbiorcy zgodnie z obowiązującymi przepisami;
+   d) pośredniczenia w kontaktach Odbiorcy z OSD w sprawach związanych
+      z realizacją usługi dystrybucji;
+   e) niezwłocznego przekazywania OSD zgłoszeń Odbiorcy dotyczących zakłóceń
+      w dostawie energii elektrycznej, awarii i przerw w zasilaniu.
+
+2. Odbiorca ma prawo do:
+   a) otrzymywania energii elektrycznej o określonych parametrach jakościowych;
+   b) uzyskiwania informacji dotyczących rozliczeń, cen i stawek opłat;
+   c) składania reklamacji w trybie określonym w § 9 niniejszej Umowy;
+   d) zmiany sprzedawcy energii elektrycznej, co wiąże się z rozwiązaniem
+      niniejszej Umowy kompleksowej i zawarciem odrębnych umów sprzedaży
+      i dystrybucji;
+   e) wypowiedzenia Umowy na warunkach określonych w § 7;
+   f) odstąpienia od Umowy na warunkach określonych w § 8.
+
+3. Odbiorca ma prawo do nieodpłatnego uzyskania od Dostawcy kopii
+   niniejszej Umowy w każdym czasie.
+
+
+§ 6. ODPOWIEDZIALNOŚĆ STRON
+
+1. Dostawca ponosi odpowiedzialność za niewykonanie lub nienależyte
+   wykonanie Umowy w zakresie sprzedaży energii elektrycznej na zasadach
+   określonych w Kodeksie cywilnym.
+
+2. Za niewykonanie lub nienależyte wykonanie usługi dystrybucji
+   odpowiedzialność ponosi OSD na zasadach określonych w Prawie energetycznym
+   oraz w Generalnej Umowie Dystrybucji.
+
+3. Dostawca nie ponosi odpowiedzialności za przerwy w dostawie energii
+   elektrycznej ani za parametry jakościowe energii elektrycznej, za które
+   odpowiedzialność ponosi OSD.
+
+4. Odbiorca ponosi odpowiedzialność za szkody powstałe w związku z:
+   a) nieprzestrzeganiem warunków Umowy;
+   b) nieprawidłową eksploatacją instalacji odbiorczej;
+   c) nielegalnym poborem energii elektrycznej.
+
+5. Żadna ze Stron nie ponosi odpowiedzialności za szkody powstałe wskutek
+   siły wyższej. Za siłę wyższą uważa się zdarzenie zewnętrzne, niemożliwe
+   do przewidzenia i zapobieżenia, w szczególności: klęski żywiołowe,
+   działania wojenne, akty terroryzmu, awarie systemowe, decyzje organów
+   władzy publicznej.
+
+
+§ 7. WYPOWIEDZENIE UMOWY
+
+1. Umowa zostaje zawarta na czas nieokreślony, począwszy od dnia określonego
+   w § 3 ust. 3.
+
+
+2. Każda ze Stron może wypowiedzieć Umowę z zachowaniem dziewięćdziesięcio-
+   dniowego (90 dni) okresu wypowiedzenia, liczonego od pierwszego dnia
+   miesiąca następującego po miesiącu, w którym oświadczenie o wypowiedzeniu
+   zostało doręczone drugiej Stronie.
+
+3. Wypowiedzenie Umowy wymaga formy pisemnej pod rygorem nieważności
+   i powinno być doręczone drugiej Stronie listem poleconym lub osobiście
+   w punkcie obsługi klienta Dostawcy.
+
+4. Odbiorca może wypowiedzieć Umowę bez ponoszenia jakichkolwiek kosztów
+   i odszkodowań z tytułu wcześniejszego rozwiązania Umowy, z zastrzeżeniem
+   obowiązku zapłaty za energię elektryczną pobraną i usługi dystrybucji
+   zrealizowane do dnia rozwiązania Umowy.
+
+5. Dostawca może wypowiedzieć Umowę lub wstrzymać dostawę energii
+   elektrycznej w przypadkach przewidzianych w Prawie energetycznym,
+   w szczególności:
+   a) cofnięcia koncesji na obrót energią elektryczną;
+   b) rozwiązania lub wygaśnięcia Generalnej Umowy Dystrybucji;
+   c) powtarzającego się nieterminowego regulowania należności przez Odbiorcę,
+      po uprzednim wezwaniu do zapłaty i wyznaczeniu dodatkowego 14-dniowego
+      terminu;
+   d) stwierdzenia nielegalnego poboru energii elektrycznej;
+   e) stwierdzenia, że instalacja odbiorcza stwarza bezpośrednie zagrożenie
+      dla życia, zdrowia lub środowiska.
+
+6. W przypadku rozwiązania Umowy z przyczyn leżących po stronie Dostawcy
+   (w szczególności cofnięcie koncesji, rozwiązanie GUD), Dostawca
+   zobowiązany jest do poinformowania Odbiorcy z co najmniej 30-dniowym
+   wyprzedzeniem oraz do udzielenia pomocy w zawarciu nowych umów sprzedaży
+   i dystrybucji.
+
+
+§ 8. ODSTĄPIENIE OD UMOWY
+
+1. W przypadku zawarcia Umowy poza lokalem przedsiębiorstwa Dostawcy lub
+   na odległość, Odbiorcy przysługuje prawo do odstąpienia od Umowy bez
+   podania przyczyny w terminie 14 dni od dnia zawarcia Umowy.
+
+2. Prawo do odstąpienia od Umowy Odbiorca wykonuje poprzez złożenie
+   Dostawcy oświadczenia o odstąpieniu od Umowy. Do zachowania terminu
+   wystarczy wysłanie oświadczenia przed jego upływem.
+
+3. Oświadczenie o odstąpieniu od Umowy może zostać złożone:
+   a) w formie pisemnej — przesłane na adres siedziby Dostawcy lub złożone
+      w punkcie obsługi klienta;
+   b) w formie elektronicznej — przesłane na adres e-mail:
+      rezygnacja@megawat-energia.pl;
+   c) za pomocą formularza odstąpienia od umowy, którego wzór stanowi
+      Załącznik nr 1 do niniejszej Umowy.
+
+4. W przypadku skutecznego odstąpienia od Umowy, Umowę uważa się za
+   niezawartą. Dostawca zwraca Odbiorcy wszystkie dokonane płatności,
+   z wyjątkiem opłat za energię elektryczną faktycznie pobraną i usługi
+   dystrybucji zrealizowane do dnia odstąpienia, w terminie 14 dni od dnia
+   otrzymania oświadczenia o odstąpieniu.
+
+5. Wzór formularza odstąpienia od umowy stanowi Załącznik nr 1 do niniejszej
+   Umowy.
+
+
+§ 9. REKLAMACJE
+
+1. Odbiorca ma prawo do składania reklamacji dotyczących realizacji Umowy,
+   w szczególności w zakresie:
+   a) rozliczeń za pobraną energię elektryczną i usługi dystrybucji;
+   b) prawidłowości wystawionych faktur;
+   c) przerw w dostawie energii elektrycznej;
+   d) parametrów jakościowych dostarczanej energii;
+   e) prawidłowości wskazań układu pomiarowo-rozliczeniowego;
+   f) jakości obsługi klienta.
+
+2. Reklamacje mogą być składane:
+   a) pisemnie — na adres siedziby Dostawcy: ul. Piotrkowska 270,
+      90-361 Łódź;
+   b) osobiście — w punkcie obsługi klienta Dostawcy;
+   c) telefonicznie — pod numerem infolinii: 42 200 0 200;
+   d) elektronicznie — za pośrednictwem formularza kontaktowego na stronie
+      internetowej Dostawcy: www.megawat-energia.pl/reklamacje;
+   e) za pośrednictwem poczty elektronicznej: bok@megawat-energia.pl.
+
+3. Reklamacja powinna zawierać:
+   a) dane identyfikacyjne Odbiorcy (imię, nazwisko, adres, numer klienta);
+   b) numer Umowy lub PPE;
+   c) opis przedmiotu reklamacji ze wskazaniem okresu, którego dotyczy;
+   d) oczekiwany sposób rozpatrzenia reklamacji;
+   e) podpis Odbiorcy (w przypadku reklamacji pisemnej).
+
+4. Dostawca rozpatruje reklamację w terminie 14 dni od dnia jej otrzymania.
+   W przypadku reklamacji dotyczących usług dystrybucji, Dostawca niezwłocznie
+   przekazuje reklamację do OSD i informuje Odbiorcę o jej przekazaniu.
+   Łączny termin rozpatrzenia reklamacji nie może przekroczyć 30 dni.
+
+5. W przypadku reklamacji dotyczącej prawidłowości wskazań układu pomiarowo-
+   rozliczeniowego, Dostawca przekazuje reklamację do OSD, który przeprowadza
+   kontrolę lub zleca ekspertyzę metrologiczną licznika.
+
+6. O wyniku rozpatrzenia reklamacji Dostawca informuje Odbiorcę w formie
+   pisemnej lub elektronicznej.
+
+7. W przypadku nieuwzględnienia reklamacji Odbiorca ma prawo do:
+   a) zwrócenia się do Koordynatora do spraw negocjacji przy Prezesie URE;
+   b) wystąpienia z wnioskiem o rozstrzygnięcie sporu do Prezesa URE
+      w trybie art. 8 ust. 1 Prawa energetycznego;
+   c) skorzystania z pomocy miejskiego lub powiatowego rzecznika konsumentów;
+   d) skierowania sprawy do sądu powszechnego właściwego dla miejsca
+      zamieszkania Odbiorcy.
+
+
+§ 10. OCHRONA DANYCH OSOBOWYCH (RODO)
+
+1. Administratorem danych osobowych Odbiorcy jest MegaWat Energia sp. z o.o.
+   z siedzibą w Łodzi, ul. Piotrkowska 270, 90-361 Łódź.
+
+2. Współadministratorem danych osobowych w zakresie realizacji usługi
+   dystrybucji jest TAURON Dystrybucja S.A. z siedzibą w Krakowie.
+
+3. W sprawach dotyczących ochrony danych osobowych Odbiorca może kontaktować
+   się z Inspektorem Ochrony Danych MegaWat Energia pod adresem e-mail:
+   iod@megawat-energia.pl lub pisemnie na adres siedziby Administratora
+   z dopiskiem „IOD".
+
+4. Dane osobowe Odbiorcy przetwarzane są w celu:
+   a) zawarcia i realizacji niniejszej Umowy, w tym świadczenia usług
+      sprzedaży i dystrybucji energii elektrycznej (art. 6 ust. 1 lit. b
+      RODO);
+   b) wypełnienia obowiązków prawnych ciążących na Administratorze, w tym
+      wynikających z Prawa energetycznego, przepisów podatkowych i rachunkowych
+      (art. 6 ust. 1 lit. c RODO);
+   c) dochodzenia lub obrony przed roszczeniami — na podstawie prawnie
+      uzasadnionego interesu Administratora (art. 6 ust. 1 lit. f RODO);
+   d) realizacji obowiązków wynikających z Generalnej Umowy Dystrybucji,
+      w tym przekazywania danych do OSD (art. 6 ust. 1 lit. b i c RODO).
+
+5. Odbiorca posiada prawo do:
+   a) dostępu do swoich danych osobowych;
+   b) sprostowania danych osobowych;
+   c) usunięcia danych osobowych (prawo do bycia zapomnianym);
+   d) ograniczenia przetwarzania danych osobowych;
+   e) przenoszenia danych osobowych;
+   f) wniesienia sprzeciwu wobec przetwarzania danych osobowych;
+   g) wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.
+
+6. Dane osobowe Odbiorcy mogą być przekazywane następującym kategoriom
+   odbiorców: OSD (TAURON Dystrybucja S.A.), podmiotom świadczącym usługi
+   na rzecz Administratora (usługi IT, pocztowe, windykacyjne, druku
+   i wysyłki faktur), organom administracji publicznej w przypadkach
+   przewidzianych przepisami prawa, Operatorowi Systemu Przesyłowego.
+
+7. Dane osobowe Odbiorcy będą przetwarzane przez okres obowiązywania Umowy,
+   a po jej zakończeniu — przez okres wymagany przepisami prawa, w tym
+   przepisami podatkowymi (5 lat) oraz przez okres przedawnienia roszczeń.
+
+8. Podanie danych osobowych jest dobrowolne, ale niezbędne do zawarcia
+   i realizacji Umowy.
+
+
+§ 11. POSTANOWIENIA KOŃCOWE
+
+1. W sprawach nieuregulowanych niniejszą Umową zastosowanie mają przepisy
+   Prawa energetycznego, Kodeksu cywilnego, ustawy o prawach konsumenta,
+   IRiESD oraz inne właściwe przepisy prawa powszechnie obowiązującego.
+
+2. Wszelkie zmiany niniejszej Umowy wymagają formy pisemnej pod rygorem
+   nieważności, z zastrzeżeniem zmian wynikających z zatwierdzenia nowej
+   taryfy lub cennika przez Prezesa URE.
+
+3. Wszelkie zawiadomienia i oświadczenia związane z realizacją Umowy powinny
+   być kierowane na adresy Stron wskazane w komparycji Umowy lub na inne
+   adresy wskazane przez Strony w formie pisemnej.
+
+4. Spory powstałe na tle realizacji niniejszej Umowy Strony będą starały się
+   rozstrzygnąć polubownie. W przypadku braku porozumienia spory podlegają
+   rozstrzygnięciu przez sąd powszechny właściwy dla miejsca zamieszkania
+   Odbiorcy.
+
+5. Umowa została sporządzona w dwóch jednobrzmiących egzemplarzach, po jednym
+   dla każdej ze Stron.
+
+
+6. Integralną część niniejszej Umowy stanowią następujące załączniki:
+   a) Załącznik nr 1 — Wzór formularza odstąpienia od umowy;
+   b) Załącznik nr 2 — Cennik energii elektrycznej (Taryfa G12-2023);
+   c) Załącznik nr 3 — Taryfa OSD dla usług dystrybucji energii elektrycznej;
+   d) Załącznik nr 4 — Klauzula informacyjna RODO.
+
+    wytwarzania energii elektrycznej]
+
+7. Odbiorca oświadcza, że przed zawarciem Umowy otrzymał od Dostawcy
+   informacje dotyczące warunków sprzedaży energii elektrycznej i świadczenia
+   usług dystrybucji.
+
+8. Odbiorca potwierdza, że zapoznał się z treścią Umowy, rozumie jej
+   postanowienia i akceptuje je bez zastrzeżeń.
+
+
+    _________________________              _________________________
+          DOSTAWCA                               ODBIORCA
+     Robert Jankowski                       Adam Lewandowski
+     Wiceprezes Zarządu
+
+     _________________________
+     Agata Szymańska
+     Prokurent
+
+Sosnowiec, dnia 5 lipca 2025 r.

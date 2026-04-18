@@ -1,0 +1,450 @@
+================================================================================
+             UMOWA O ŚWIADCZENIE USŁUG DYSTRYBUCJI ENERGII ELEKTRYCZNEJ
+                              Nr UD/2025/05/00064
+================================================================================
+
+Zawarta w dniu 20 kwietnia 2025 r. w Katowicach pomiędzy:
+
+TAURON Dystrybucja S.A. z siedzibą w Krakowie, ul. Podgórska 25A,
+31-035 Kraków, wpisaną do rejestru przedsiębiorców Krajowego Rejestru
+Sądowego prowadzonego przez Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie,
+XI Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem
+KRS 0000073321, NIP: 6110202860, REGON: 230179216, kapitał zakładowy:
+560 467 130,26 zł (wpłacony w całości), reprezentowaną przez:
+    - Ewę Malinowską — Dyrektora Oddziału Gliwice (pełnomocnictwo nr
+      TD/P/2024/1287 z dnia 15.02.2024 r.)
+zwaną dalej „Operatorem" lub „OSD",
+
+a
+
+Katarzyną Woźniak, zamieszkałą przy ul. Mickiewicza 23/5, 40-085 Katowice,
+PESEL: 82050912345, legitymującą się dowodem osobistym seria BCD nr 456789,
+zwaną dalej „Odbiorcą" lub „Użytkownikiem systemu",
+
+łącznie zwanymi „Stronami", a każda z osobna „Stroną".
+
+
+§ 1. PRZEDMIOT UMOWY
+
+1. Przedmiotem niniejszej Umowy jest świadczenie przez Operatora na rzecz
+   Odbiorcy usługi dystrybucji energii elektrycznej, polegającej na
+   przesyłaniu energii elektrycznej siecią dystrybucyjną Operatora do punktu
+   poboru energii (PPE) zlokalizowanego pod adresem: ul. Mickiewicza 23/5,
+   40-085 Katowice.
+
+2. Numer punktu poboru energii (PPE): PL_ZEWD_1405098765_02.
+
+3. Operator zobowiązuje się do świadczenia usługi dystrybucji energii
+   elektrycznej na warunkach określonych w niniejszej Umowie, Instrukcji
+   Ruchu i Eksploatacji Sieci Dystrybucyjnej (IRiESD) oraz obowiązujących
+   przepisach prawa.
+
+4. Usługa dystrybucji energii elektrycznej świadczona jest na potrzeby
+   gospodarstwa domowego Odbiorcy (odbiorca w grupie taryfowej G — grupa
+   przyłączeniowa IV).
+
+5. Odbiorca korzysta z energii elektrycznej nabywanej od wybranego przez
+   siebie sprzedawcy na podstawie odrębnej umowy sprzedaży energii
+   elektrycznej.
+
+6. Moc przyłączeniowa dla PPE wynosi 14 kW, napięcie znamionowe 230/400 V,
+   zabezpieczenie przedlicznikowe: 25 A.
+
+
+§ 2. DEFINICJE
+
+Na potrzeby niniejszej Umowy poniższe pojęcia mają następujące znaczenie:
+
+1. „Usługa dystrybucji" — usługa polegająca na przesyłaniu energii
+   elektrycznej siecią dystrybucyjną Operatora do punktu poboru energii,
+   obejmująca w szczególności: transport energii, utrzymanie ciągłości
+   zasilania, utrzymanie parametrów jakościowych energii oraz prowadzenie
+   ruchu sieciowego.
+
+2. „Punkt poboru energii" (PPE) — miejsce w sieci elektroenergetycznej
+   Operatora, w którym dokonywany jest pomiar ilości energii elektrycznej
+   dostarczanej do instalacji Odbiorcy.
+
+3. „Operator Systemu Dystrybucyjnego" (OSD) — TAURON Dystrybucja S.A.,
+   przedsiębiorstwo energetyczne posiadające koncesję na dystrybucję energii
+   elektrycznej nr DEE/227/14989/W/OKR/2007/RW z dnia 14 maja 2007 r.
+
+4. „Instrukcja Ruchu i Eksploatacji Sieci Dystrybucyjnej" (IRiESD) —
+   dokument określający szczegółowe warunki korzystania z sieci
+   dystrybucyjnej oraz prowadzenia ruchu, eksploatacji i planowania rozwoju
+   tej sieci, zatwierdzony przez Prezesa URE.
+
+5. „Taryfa OSD" — zbiór cen i stawek opłat za usługi dystrybucji energii
+   elektrycznej oraz warunków ich stosowania, zatwierdzony przez Prezesa URE.
+
+6. „Układ pomiarowo-rozliczeniowy" — liczniki i inne urządzenia pomiarowe
+   lub pomiarowo-rozliczeniowe zainstalowane w PPE, stanowiące własność
+   Operatora.
+
+7. „Przyłącze" — odcinek lub element sieci służący do połączenia urządzeń,
+   instalacji lub sieci podmiotu z siecią Operatora.
+
+8. „Instalacja odbiorcza" — instalacja elektryczna wewnętrzna znajdująca
+   się za układem pomiarowo-rozliczeniowym, stanowiąca własność Odbiorcy.
+
+9. „Standardy jakościowe" — parametry jakościowe energii elektrycznej
+   i standardy obsługi Odbiorców określone w rozporządzeniu Ministra
+   Gospodarki w sprawie szczegółowych warunków funkcjonowania systemu
+   elektroenergetycznego oraz w IRiESD.
+
+
+§ 3. WARUNKI ŚWIADCZENIA USŁUG DYSTRYBUCJI
+
+1. Operator świadczy usługę dystrybucji energii elektrycznej zgodnie z:
+   a) obowiązującymi przepisami prawa, w tym Prawem energetycznym oraz
+      aktami wykonawczymi;
+   b) warunkami niniejszej Umowy;
+   c) obowiązującą Taryfą OSD zatwierdzoną przez Prezesa URE;
+   d) Instrukcją Ruchu i Eksploatacji Sieci Dystrybucyjnej (IRiESD).
+
+2. Usługa dystrybucji energii elektrycznej obejmuje w szczególności:
+   a) przesyłanie energii elektrycznej siecią dystrybucyjną do PPE;
+   b) utrzymanie ciągłości zasilania i parametrów jakościowych energii
+      elektrycznej zgodnie z obowiązującymi standardami;
+   c) prowadzenie pomiarów i odczytów układu pomiarowo-rozliczeniowego;
+   d) przekazywanie danych pomiarowych do sprzedawcy energii elektrycznej;
+   e) utrzymanie i eksploatację sieci dystrybucyjnej, w tym przyłącza.
+
+3. Usługa dystrybucji świadczona jest w grupie taryfowej G11
+   (jednostrefowa — całodobowa).
+
+4. Operator zapewnia standardy jakościowe obsługi Odbiorców określone
+   w obowiązujących przepisach prawa, w szczególności:
+   a) dotrzymanie parametrów jakościowych energii elektrycznej;
+   b) dopuszczalny czas trwania przerw w dostawie energii elektrycznej;
+   c) terminy realizacji przyłączeń, odczytów i innych usług.
+
+5. Odbiorca zobowiązany jest do:
+   a) pobierania energii elektrycznej zgodnie z obowiązującymi przepisami,
+      warunkami Umowy oraz IRiESD;
+   b) utrzymywania instalacji odbiorczej w należytym stanie technicznym;
+   c) niezwłocznego informowania Operatora o wszelkich zakłóceniach
+      w dostawie energii elektrycznej oraz uszkodzeniach elementów sieci;
+   d) udostępniania nieruchomości w celu przeprowadzenia kontroli, odczytów
+      oraz prac eksploatacyjnych przez upoważnionych przedstawicieli Operatora;
+   e) nienaruszania plomb i zabezpieczeń układu pomiarowo-rozliczeniowego;
+   f) niezwłocznego informowania Operatora o zmianach danych osobowych,
+      adresu oraz wszelkich okolicznościach mających wpływ na realizację
+      Umowy.
+
+6. Rozliczenia za usługi dystrybucji dokonywane są w okresach
+   rozliczeniowych wynoszących jeden miesiąc kalendarzowy lub dwa miesiące
+   kalendarzowe, zgodnie z harmonogramem odczytów Operatora.
+
+
+§ 4. CENA I WARUNKI PŁATNOŚCI
+
+1. Stawki opłat za usługi dystrybucji energii elektrycznej są określone
+   w Taryfie OSD, zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki,
+   obowiązującej od dnia 1 stycznia 2025 r.
+
+2. Na dzień zawarcia Umowy stawki opłat za usługi dystrybucji w grupie
+   taryfowej G11 wynoszą:
+   a) stawka sieciowa (składnik zmienny): 0,1892 zł/kWh netto;
+   b) stawka sieciowa (składnik stały): 8,74 zł/miesiąc netto;
+   c) stawka jakościowa: 0,0133 zł/kWh netto;
+   d) opłata abonamentowa: 4,00 zł/miesiąc netto;
+   e) opłata OZE: 0,0026 zł/kWh netto;
+   f) opłata mocowa: 0,0762 zł/kWh netto;
+   g) opłata kogeneracyjna: 0,0058 zł/kWh netto.
+
+3. Do opłat, o których mowa w ust. 2, doliczany jest podatek od towarów
+   i usług (VAT) w obowiązującej stawce (na dzień zawarcia Umowy: 23%).
+
+4. Operator wystawia faktury VAT za usługi dystrybucji w okresach
+   rozliczeniowych, o których mowa w § 3 ust. 6, lub przekazuje dane
+   rozliczeniowe sprzedawcy energii elektrycznej w celu wystawienia faktury
+   zbiorczej, w zależności od przyjętego modelu rozliczeń.
+
+5. Odbiorca zobowiązany jest do zapłaty należności wynikających z faktury
+   w terminie 14 dni od daty wystawienia faktury, przelewem na rachunek
+   bankowy Operatora wskazany na fakturze.
+
+6. W przypadku opóźnienia w zapłacie Operator jest uprawniony do naliczania
+   odsetek ustawowych za opóźnienie.
+
+7. Zmiana stawek opłat za usługi dystrybucji następuje wyłącznie w przypadku
+   zatwierdzenia nowej Taryfy OSD przez Prezesa URE. O zmianie stawek
+   Operator informuje Odbiorcę z wyprzedzeniem wynikającym z przepisów prawa.
+
+
+§ 5. PRAWA I OBOWIĄZKI STRON
+
+1. Operator jest zobowiązany do:
+   a) świadczenia usługi dystrybucji energii elektrycznej zgodnie
+      z warunkami niniejszej Umowy, IRiESD oraz obowiązującymi przepisami;
+   b) utrzymywania sieci dystrybucyjnej, w tym przyłącza, w należytym stanie
+      technicznym zapewniającym ciągłość zasilania;
+   c) zapewnienia parametrów jakościowych energii elektrycznej zgodnie
+      z obowiązującymi standardami;
+   d) prowadzenia pomiarów i odczytów układu pomiarowo-rozliczeniowego
+      oraz przekazywania danych pomiarowych;
+   e) informowania Odbiorcy o planowanych przerwach w dostawie energii
+      elektrycznej z co najmniej 5-dniowym wyprzedzeniem;
+   f) rozpatrywania reklamacji Odbiorcy w terminach określonych w § 9;
+   g) przywracania zasilania po wystąpieniu przerw w dostawie energii
+      elektrycznej w możliwie najkrótszym czasie;
+   h) zapewnienia bonifikaty za niedotrzymanie standardów jakościowych
+      zgodnie z obowiązującymi przepisami.
+
+2. Odbiorca ma prawo do:
+   a) korzystania z usługi dystrybucji energii elektrycznej na warunkach
+      określonych w Umowie;
+   b) otrzymywania energii elektrycznej o parametrach jakościowych zgodnych
+      z obowiązującymi normami;
+   c) uzyskiwania informacji dotyczących warunków świadczenia usług
+      dystrybucji, stawek opłat oraz planowanych przerw w dostawie;
+   d) składania reklamacji w trybie określonym w § 9;
+   e) żądania bonifikaty za niedotrzymanie standardów jakościowych
+      lub parametrów dostawy;
+   f) zmiany sprzedawcy energii elektrycznej;
+   g) wypowiedzenia Umowy na warunkach określonych w § 7.
+
+3. Odbiorca ma prawo do nieodpłatnego uzyskania od Operatora kopii
+   niniejszej Umowy w każdym czasie.
+
+
+§ 6. ODPOWIEDZIALNOŚĆ STRON
+
+1. Operator ponosi odpowiedzialność za niewykonanie lub nienależyte wykonanie
+   usługi dystrybucji na zasadach określonych w Kodeksie cywilnym, Prawie
+   energetycznym oraz aktach wykonawczych, z wyłączeniem przypadków, gdy
+   niewykonanie lub nienależyte wykonanie wynika z:
+   a) siły wyższej;
+   b) działań lub zaniechań Odbiorcy;
+   c) konieczności przeprowadzenia niezbędnych prac eksploatacyjnych,
+      remontowych lub modernizacyjnych sieci dystrybucyjnej, o ile Odbiorca
+      został poinformowany o planowanej przerwie z wymaganym wyprzedzeniem;
+   d) przerw w zasilaniu wynikających z działań Operatora Systemu
+      Przesyłowego (OSP).
+
+2. W przypadku niedotrzymania przez Operatora standardów jakościowych obsługi
+   Odbiorców, Odbiorcy przysługuje bonifikata w wysokości określonej
+   w obowiązujących przepisach, w szczególności w rozporządzeniu Ministra
+   Gospodarki w sprawie szczegółowych warunków funkcjonowania systemu
+   elektroenergetycznego.
+
+3. Operator ponosi odpowiedzialność za stan techniczny sieci dystrybucyjnej,
+   w tym przyłącza oraz układu pomiarowo-rozliczeniowego.
+
+4. Odbiorca ponosi odpowiedzialność za:
+   a) stan techniczny instalacji odbiorczej;
+   b) szkody powstałe w związku z nieprzestrzeganiem warunków Umowy oraz
+      IRiESD;
+   c) nielegalny pobór energii elektrycznej.
+
+5. Żadna ze Stron nie ponosi odpowiedzialności za szkody powstałe wskutek
+   siły wyższej. Za siłę wyższą uważa się zdarzenie zewnętrzne, niemożliwe
+   do przewidzenia i zapobieżenia, w szczególności: klęski żywiołowe,
+   działania wojenne, akty terroryzmu, awarie systemowe o charakterze
+   kaskadowym.
+
+
+§ 7. WYPOWIEDZENIE UMOWY
+
+1. Umowa zostaje zawarta na czas nieokreślony, począwszy od dnia 1 maja
+   2025 r.
+
+2. Każda ze Stron może wypowiedzieć Umowę z zachowaniem jednomiesięcznego
+   okresu wypowiedzenia, ze skutkiem na koniec miesiąca kalendarzowego.
+
+3. Wypowiedzenie Umowy wymaga formy pisemnej pod rygorem nieważności
+   i powinno być doręczone drugiej Stronie listem poleconym, osobiście
+   w punkcie obsługi klienta Operatora lub drogą elektroniczną, jeżeli
+   Strony dopuściły tę formę komunikacji.
+
+4. Odbiorca może wypowiedzieć Umowę bez ponoszenia jakichkolwiek kosztów
+   i odszkodowań z tytułu wcześniejszego rozwiązania Umowy, z zastrzeżeniem
+   obowiązku uregulowania należności za usługi dystrybucji zrealizowane
+   do dnia rozwiązania Umowy.
+
+5. Operator może wypowiedzieć Umowę lub wstrzymać dostawę energii
+   elektrycznej w przypadkach przewidzianych w Prawie energetycznym,
+   w szczególności:
+   a) stwierdzenia nielegalnego poboru energii elektrycznej;
+   b) zwłoki Odbiorcy z zapłatą za usługi dystrybucji, po uprzednim
+      powiadomieniu na piśmie o zamiarze wstrzymania dostawy i wyznaczeniu
+      dodatkowego 14-dniowego terminu do zapłaty;
+   c) stwierdzenia, że instalacja odbiorcza stwarza bezpośrednie zagrożenie
+      dla życia, zdrowia lub środowiska.
+
+6. Rozwiązanie Umowy nie zwalnia Stron z obowiązku rozliczenia wzajemnych
+   zobowiązań powstałych w okresie obowiązywania Umowy.
+
+
+§ 8. ODSTĄPIENIE OD UMOWY
+
+1. W przypadku zawarcia Umowy poza lokalem przedsiębiorstwa Operatora lub
+   na odległość, Odbiorcy przysługuje prawo do odstąpienia od Umowy bez
+   podania przyczyny w terminie 14 dni od dnia zawarcia Umowy.
+
+2. Prawo do odstąpienia od Umowy Odbiorca wykonuje poprzez złożenie
+   Operatorowi oświadczenia o odstąpieniu od Umowy. Do zachowania terminu
+   wystarczy wysłanie oświadczenia przed jego upływem.
+
+3. Oświadczenie o odstąpieniu od Umowy może zostać złożone:
+   a) w formie pisemnej — przesłane na adres siedziby Operatora lub złożone
+      w punkcie obsługi klienta;
+   b) w formie elektronicznej — przesłane na adres e-mail:
+      odstapienie@tauron-dystrybucja.pl;
+   c) za pomocą formularza odstąpienia od umowy, którego wzór stanowi
+      Załącznik nr 1 do niniejszej Umowy.
+
+4. W przypadku skutecznego odstąpienia od Umowy, Umowę uważa się za
+   niezawartą. Operator zwraca Odbiorcy dokonane płatności, z wyjątkiem
+   opłat za usługi dystrybucji faktycznie zrealizowane do dnia odstąpienia,
+   w terminie 14 dni od dnia otrzymania oświadczenia o odstąpieniu.
+
+5. Wzór formularza odstąpienia od umowy stanowi Załącznik nr 1 do niniejszej
+   Umowy.
+
+
+§ 9. REKLAMACJE
+
+1. Odbiorca ma prawo do składania reklamacji dotyczących realizacji Umowy,
+   w szczególności w zakresie:
+   a) przerw w dostawie energii elektrycznej;
+   b) parametrów jakościowych dostarczanej energii elektrycznej;
+   c) prawidłowości wskazań układu pomiarowo-rozliczeniowego;
+   d) prawidłowości rozliczeń za usługi dystrybucji;
+   e) dotrzymania standardów jakościowych obsługi;
+   f) jakości obsługi klienta.
+
+2. Reklamacje mogą być składane:
+   a) pisemnie — na adres siedziby Operatora lub oddziału: TAURON Dystrybucja
+      S.A. Oddział Gliwice, ul. Portowa 14A, 44-100 Gliwice;
+   b) osobiście — w punkcie obsługi klienta Operatora;
+   c) telefonicznie — pod numerem infolinii: 32 606 0 616 lub numerem
+      pogotowia energetycznego: 991;
+   d) elektronicznie — za pośrednictwem formularza kontaktowego na stronie
+      internetowej Operatora: www.tauron-dystrybucja.pl/kontakt;
+   e) za pośrednictwem poczty elektronicznej: obsluga@tauron-dystrybucja.pl.
+
+3. Reklamacja powinna zawierać:
+   a) dane identyfikacyjne Odbiorcy (imię, nazwisko, adres, numer klienta);
+   b) numer Umowy lub PPE;
+   c) opis przedmiotu reklamacji ze wskazaniem okresu, którego dotyczy;
+   d) oczekiwany sposób rozpatrzenia reklamacji;
+   e) podpis Odbiorcy (w przypadku reklamacji pisemnej).
+
+4. Operator rozpatruje reklamację w terminie 14 dni od dnia jej otrzymania.
+   W przypadku konieczności przeprowadzenia kontroli lub ekspertyzy technicznej
+   termin rozpatrzenia reklamacji może zostać przedłużony do 30 dni, o czym
+   Operator niezwłocznie informuje Odbiorcę.
+
+5. W przypadku reklamacji dotyczącej prawidłowości wskazań układu pomiarowo-
+   rozliczeniowego, Operator przeprowadza kontrolę lub zleca ekspertyzę
+   metrologiczną licznika. Koszty ekspertyzy ponosi Operator, chyba że
+   badanie wykaże prawidłowość wskazań układu pomiarowego — wówczas koszty
+   ponosi Odbiorca, zgodnie z obowiązującymi przepisami.
+
+6. O wyniku rozpatrzenia reklamacji Operator informuje Odbiorcę w formie
+   pisemnej lub elektronicznej, w zależności od preferencji Odbiorcy.
+
+7. W przypadku nieuwzględnienia reklamacji Odbiorca ma prawo do:
+   a) zwrócenia się do Koordynatora do spraw negocjacji przy Prezesie URE
+      w celu rozwiązania sporu;
+   b) wystąpienia z wnioskiem o rozstrzygnięcie sporu do Prezesa URE
+      w trybie art. 8 ust. 1 Prawa energetycznego;
+   c) skorzystania z pomocy miejskiego lub powiatowego rzecznika konsumentów;
+   d) skierowania sprawy do sądu powszechnego właściwego dla miejsca
+      zamieszkania Odbiorcy.
+
+
+§ 10. OCHRONA DANYCH OSOBOWYCH (RODO)
+
+1. Administratorem danych osobowych Odbiorcy jest TAURON Dystrybucja S.A.
+   z siedzibą w Krakowie, ul. Podgórska 25A, 31-035 Kraków.
+
+2. W sprawach dotyczących ochrony danych osobowych Odbiorca może kontaktować
+   się z Inspektorem Ochrony Danych pod adresem e-mail:
+   iod@tauron-dystrybucja.pl lub pisemnie na adres siedziby Administratora
+   z dopiskiem „IOD".
+
+3. Dane osobowe Odbiorcy przetwarzane są w celu:
+   a) zawarcia i realizacji niniejszej Umowy (art. 6 ust. 1 lit. b RODO);
+   b) wypełnienia obowiązków prawnych ciążących na Administratorze, w tym
+      wynikających z Prawa energetycznego, przepisów podatkowych i rachunkowych
+      (art. 6 ust. 1 lit. c RODO);
+   c) zapewnienia bezpieczeństwa sieci dystrybucyjnej — na podstawie prawnie
+      uzasadnionego interesu Administratora (art. 6 ust. 1 lit. f RODO);
+   d) dochodzenia lub obrony przed roszczeniami (art. 6 ust. 1 lit. f RODO).
+
+4. Odbiorca posiada prawo do:
+   a) dostępu do swoich danych osobowych;
+   b) sprostowania danych osobowych;
+   c) usunięcia danych osobowych (prawo do bycia zapomnianym);
+   d) ograniczenia przetwarzania danych osobowych;
+   e) przenoszenia danych osobowych;
+   f) wniesienia sprzeciwu wobec przetwarzania danych osobowych;
+   g) wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.
+
+5. Dane osobowe Odbiorcy mogą być przekazywane następującym kategoriom
+   odbiorców: sprzedawcom energii elektrycznej, podmiotom świadczącym usługi
+   na rzecz Administratora (np. usługi IT, pocztowe, pomiarowe), organom
+   administracji publicznej w przypadkach przewidzianych przepisami prawa,
+   Operatorowi Systemu Przesyłowego.
+
+6. Dane osobowe Odbiorcy będą przetwarzane przez okres obowiązywania Umowy,
+   a po jej zakończeniu — przez okres wymagany przepisami prawa.
+
+7. Podanie danych osobowych jest dobrowolne, ale niezbędne do zawarcia
+   i realizacji Umowy. Odmowa podania danych uniemożliwia zawarcie Umowy.
+
+
+§ 11. POSTANOWIENIA KOŃCOWE
+
+1. W sprawach nieuregulowanych niniejszą Umową zastosowanie mają przepisy
+   Prawa energetycznego, Kodeksu cywilnego, ustawy o prawach konsumenta,
+   IRiESD oraz inne właściwe przepisy prawa powszechnie obowiązującego.
+
+2. Wszelkie zmiany niniejszej Umowy wymagają formy pisemnej pod rygorem
+   nieważności, z zastrzeżeniem zmian wynikających z zatwierdzenia nowej
+   Taryfy OSD przez Prezesa URE lub zmian IRiESD.
+
+3. Wszelkie zawiadomienia i oświadczenia związane z realizacją Umowy powinny
+   być kierowane na adresy Stron wskazane w komparycji Umowy lub na inne
+   adresy wskazane przez Strony w formie pisemnej.
+
+4. Spory powstałe na tle realizacji niniejszej Umowy Strony będą starały się
+   rozstrzygnąć polubownie. W przypadku braku porozumienia spory podlegają
+   rozstrzygnięciu przez sąd powszechny właściwy dla miejsca zamieszkania
+   Odbiorcy będącego konsumentem.
+
+5. Umowa została sporządzona w dwóch jednobrzmiących egzemplarzach, po jednym
+   dla każdej ze Stron.
+
+6. Integralną część niniejszej Umowy stanowią następujące załączniki:
+   a) Załącznik nr 1 — Wzór formularza odstąpienia od umowy;
+   b) Załącznik nr 2 — Taryfa OSD dla usług dystrybucji energii elektrycznej
+      na rok 2025;
+   c) Załącznik nr 3 — Wyciąg z IRiESD dotyczący standardów jakościowych
+      obsługi Odbiorców;
+   d) Załącznik nr 4 — Klauzula informacyjna RODO.
+
+7. Odbiorca oświadcza, że przed zawarciem Umowy otrzymał od Operatora
+   informacje, o których mowa w art. 5 ust. 4 Prawa energetycznego,
+   w szczególności dotyczące:
+   a) stawek opłat za usługi dystrybucji;
+   b) warunków umowy;
+   c) praw Odbiorcy, w tym prawa do wypowiedzenia Umowy i prawa do
+      odstąpienia od Umowy;
+   d) trybu rozpatrywania reklamacji i rozstrzygania sporów;
+   e) prawa do zmiany sprzedawcy energii elektrycznej;
+   f) standardów jakościowych i przysługujących bonifikat.
+
+8. Odbiorca potwierdza, że zapoznał się z treścią Umowy oraz IRiESD,
+   rozumie ich postanowienia i akceptuje je bez zastrzeżeń.
+
+
+    _________________________              _________________________
+          OPERATOR                               ODBIORCA
+     Ewa Malinowska                         Katarzyna Woźniak
+     Dyrektor Oddziału Gliwice
+
+Katowice, dnia 20 kwietnia 2025 r.

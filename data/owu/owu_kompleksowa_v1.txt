@@ -1,0 +1,656 @@
+================================================================================
+        OGÓLNE WARUNKI UMOWY KOMPLEKSOWEJ
+        SPRZEDAŻY ENERGII ELEKTRYCZNEJ I ŚWIADCZENIA
+        USŁUG DYSTRYBUCJI DLA ODBIORCÓW W GOSPODARSTWACH
+        DOMOWYCH
+
+                         Wersja 1.0
+                  Obowiązuje od: 1 lutego 2026 r.
+
+              TAURON Sprzedaż sp. z o.o.
+              ul. Łagiewnicka 60, 30-417 Kraków
+              KRS: 0000270491, NIP: 6312497521
+              REGON: 241468561
+              Kapitał zakładowy: 371 819 800,00 zł
+
+              Operator Systemu Dystrybucyjnego:
+              TAURON Dystrybucja S.A.
+              ul. Podgórska 25A, 31-035 Kraków
+              KRS: 0000073321, NIP: 6110202860
+================================================================================
+
+PREAMBUŁA
+
+Niniejsze Ogólne Warunki Umowy Kompleksowej Sprzedaży Energii Elektrycznej
+i Świadczenia Usług Dystrybucji dla Odbiorców w Gospodarstwach Domowych
+(dalej: „OWU") określają szczegółowe warunki sprzedaży energii elektrycznej
+oraz świadczenia usług dystrybucji energii elektrycznej realizowanych
+na podstawie Umowy Kompleksowej (dalej: „Umowa") zawartej pomiędzy
+TAURON Sprzedaż sp. z o.o. z siedzibą w Krakowie (dalej: „Sprzedawca")
+a odbiorcą końcowym będącym konsumentem w rozumieniu art. 22¹ ustawy
+z dnia 23 kwietnia 1964 r. — Kodeks cywilny (dalej: „Odbiorca" lub
+„Konsument"), przyłączonym do sieci dystrybucyjnej TAURON Dystrybucja S.A.
+(dalej: „OSD") na poziomie napięcia niskiego.
+
+Umowa Kompleksowa obejmuje zarówno sprzedaż energii elektrycznej, jak
+i świadczenie usług dystrybucji, zgodnie z art. 5 ust. 3 ustawy z dnia
+10 kwietnia 1997 r. — Prawo energetyczne (dalej: „PE").
+
+OWU stanowią integralną część Umowy zawartej pomiędzy Sprzedawcą
+a Odbiorcą.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ I
+                       DEFINICJE
+--------------------------------------------------------------------------------
+
+Art. 1. Definicje
+
+1. Ilekroć w niniejszych OWU jest mowa o:
+
+   1) „Cenniku" — rozumie się przez to zbiór cen i stawek opłat za energię
+      elektryczną stosowanych przez Sprzedawcę, zatwierdzony przez Prezesa
+      Urzędu Regulacji Energetyki lub ustalony przez Sprzedawcę zgodnie
+      z obowiązującymi przepisami prawa;
+
+   2) „Dniu roboczym" — rozumie się przez to każdy dzień od poniedziałku
+      do piątku, z wyłączeniem dni ustawowo wolnych od pracy;
+
+   3) „Energii elektrycznej" — rozumie się przez to energię elektryczną
+      w rozumieniu PE;
+
+   4) „Grupie taryfowej" — rozumie się przez to grupę taryfową, do której
+      zakwalifikowany jest Odbiorca, wskazaną w Umowie;
+
+   5) „IRiESD" — rozumie się przez to Instrukcję Ruchu i Eksploatacji
+      Sieci Dystrybucyjnej opracowaną przez OSD;
+
+   6) „Miejscu dostarczania energii elektrycznej" (dalej: „MDE") — rozumie
+      się przez to punkt w sieci, do którego przedsiębiorstwo energetyczne
+      dostarcza energię elektryczną, określony w Umowie;
+
+   7) „Operatorze Systemu Dystrybucyjnego" (dalej: „OSD") — rozumie się
+      przez to TAURON Dystrybucja S.A. z siedzibą w Krakowie;
+
+   8) „Okresie rozliczeniowym" — rozumie się przez to okres, za który
+      następuje rozliczenie należności za sprzedaną energię elektryczną
+      i świadczone usługi dystrybucji;
+
+   9) „Opłacie dystrybucyjnej" — rozumie się przez to należność za
+      świadczenie usług dystrybucji, kalkulowaną na podstawie Taryfy OSD
+      zatwierdzonej przez Prezesa URE;
+
+  10) „POB" — rozumie się przez to Punkt Obsługi Klienta Sprzedawcy;
+
+  11) „Prawie energetycznym" lub „PE" — rozumie się przez to ustawę
+      z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz.U. z 2024 r.
+      poz. 266 z późn. zm.);
+
+  12) „Przyłączeniu" — rozumie się przez to fizyczne połączenie instalacji
+      Odbiorcy z siecią dystrybucyjną OSD;
+
+  13) „Sieci dystrybucyjnej" — rozumie się przez to sieć
+      elektroenergetyczną o napięciu znamionowym niższym niż 110 kV,
+      za której ruch sieciowy jest odpowiedzialny OSD;
+
+  14) „Taryfie OSD" — rozumie się przez to taryfę dla usług dystrybucji
+      energii elektrycznej zatwierdzoną przez Prezesa URE dla OSD;
+
+  15) „Umowie" lub „Umowie Kompleksowej" — rozumie się przez to Umowę
+      Kompleksową Sprzedaży Energii Elektrycznej i Świadczenia Usług
+      Dystrybucji, której integralną część stanowią niniejsze OWU;
+
+  16) „Umowie o przyłączenie" — rozumie się przez to umowę zawartą
+      pomiędzy Odbiorcą a OSD, określającą warunki przyłączenia instalacji
+      Odbiorcy do sieci dystrybucyjnej;
+
+  17) „URE" — rozumie się przez to Urząd Regulacji Energetyki;
+
+  18) „Układzie pomiarowo-rozliczeniowym" — rozumie się przez to liczniki
+      i inne urządzenia pomiarowe lub rozliczeniowo-pomiarowe, w tym
+      teleinformatyczne systemy pomiarowe, służące do pomiaru lub
+      wyznaczenia ilości energii elektrycznej;
+
+  19) „Usługach dystrybucji" — rozumie się przez to usługi przesyłania
+      energii elektrycznej siecią dystrybucyjną OSD do instalacji
+      Odbiorcy.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ II
+              PRZEDMIOT I ZAKRES UMOWY
+--------------------------------------------------------------------------------
+
+Art. 2. Przedmiot Umowy
+
+1. Przedmiotem Umowy jest:
+   1) sprzedaż energii elektrycznej przez Sprzedawcę na rzecz Odbiorcy
+      do MDE wskazanego w Umowie;
+   2) świadczenie usług dystrybucji energii elektrycznej przez OSD
+      za pośrednictwem Sprzedawcy.
+
+2. Sprzedawca występuje w ramach Umowy Kompleksowej również w imieniu
+   i na rzecz OSD w zakresie świadczenia usług dystrybucji, na podstawie
+   odrębnej umowy zawartej pomiędzy Sprzedawcą a OSD, zgodnie
+   z art. 5 ust. 3 PE.
+
+3. Odbiorca zobowiązuje się do odbioru energii elektrycznej oraz do
+   terminowego regulowania należności z tytułu sprzedaży energii
+   elektrycznej i świadczenia usług dystrybucji.
+
+Art. 3. Zakres obowiązywania i czas trwania Umowy
+
+1. Niniejsze OWU mają zastosowanie do Umów Kompleksowych zawieranych
+   przez Sprzedawcę z Odbiorcami w gospodarstwach domowych, przyłączonymi
+   do sieci dystrybucyjnej OSD.
+
+2. W przypadku rozbieżności pomiędzy postanowieniami Umowy a niniejszymi
+   OWU, pierwszeństwo mają postanowienia Umowy, chyba że bezwzględnie
+   obowiązujące przepisy prawa stanowią inaczej.
+
+3. Umowa zawierana jest na czas nieokreślony, chyba że strony postanowią
+   inaczej w treści Umowy.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ III
+                  WARUNKI SPRZEDAŻY I DYSTRYBUCJI
+--------------------------------------------------------------------------------
+
+Art. 4. Rozpoczęcie sprzedaży i świadczenia usług dystrybucji
+
+1. Sprzedaż energii elektrycznej i świadczenie usług dystrybucji
+   rozpoczyna się po spełnieniu łącznie następujących warunków:
+   1) zawarciu Umowy przez Sprzedawcę i Odbiorcę;
+   2) przyłączeniu instalacji Odbiorcy do sieci dystrybucyjnej OSD
+      na podstawie ważnej umowy o przyłączenie;
+   3) zainstalowaniu i opomiarowaniu MDE przez OSD;
+   4) skutecznym przeprowadzeniu procedury zmiany sprzedawcy,
+      o ile ma to zastosowanie.
+
+2. Sprzedawca rozpoczyna sprzedaż energii elektrycznej i zapewnia
+   świadczenie usług dystrybucji w terminie określonym w Umowie,
+   nie później jednak niż w terminie wynikającym z obowiązujących
+   przepisów prawa i IRiESD.
+
+Art. 5. Standardy jakościowe i warunki techniczne
+
+1. Energia elektryczna dostarczana Odbiorcy powinna spełniać parametry
+   jakościowe określone w obowiązujących przepisach prawa, w tym
+   w rozporządzeniu Ministra Gospodarki w sprawie szczegółowych warunków
+   funkcjonowania systemu elektroenergetycznego.
+
+2. Usługi dystrybucji świadczone są zgodnie z IRiESD, warunkami
+   technicznymi określonymi w przepisach prawa oraz standardami
+   jakościowymi OSD.
+
+3. OSD ponosi odpowiedzialność za ciągłość i jakość dostaw energii
+   elektrycznej w zakresie wynikającym z warunków technicznych sieci
+   dystrybucyjnej oraz obowiązujących przepisów prawa.
+
+4. Planowane przerwy w dostarczaniu energii elektrycznej wynikające
+   z prac eksploatacyjnych lub remontowych w sieci dystrybucyjnej
+   ogłaszane są przez OSD z wyprzedzeniem co najmniej 5 dni, w sposób
+   zwyczajowo przyjęty.
+
+Art. 6. Moc umowna i warunki przyłączenia
+
+1. Moc umowna dla MDE określona jest w Umowie i odpowiada mocy
+   przyłączeniowej wynikającej z umowy o przyłączenie.
+
+2. Zmiana mocy umownej wymaga uprzedniego uzyskania warunków
+   przyłączenia od OSD oraz zawarcia aneksu do Umowy lub nowej umowy
+   o przyłączenie.
+
+3. Odbiorca zobowiązany jest do nieprzekraczania mocy umownej określonej
+   w Umowie. W przypadku przekroczenia mocy umownej OSD może naliczyć
+   opłatę za przekroczenie mocy zgodnie z Taryfą OSD.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ IV
+                  CENY I ROZLICZENIA
+--------------------------------------------------------------------------------
+
+Art. 7. Ceny energii elektrycznej i opłaty dystrybucyjne
+
+1. Ceny energii elektrycznej określone są w Cenniku stanowiącym
+   załącznik do Umowy lub w Taryfie zatwierdzonej przez Prezesa URE.
+
+2. Opłaty za świadczenie usług dystrybucji naliczane są zgodnie
+   z Taryfą OSD zatwierdzoną przez Prezesa URE i obejmują w szczególności:
+   1) opłatę za usługę dystrybucyjną zmienną (składnik zmienny
+      stawki sieciowej);
+   2) opłatę za usługę dystrybucyjną stałą (składnik stały stawki
+      sieciowej);
+   3) opłatę abonamentową;
+   4) opłatę przejściową;
+   5) opłatę OZE;
+   6) opłatę kogeneracyjną;
+   7) opłatę mocową.
+
+3. Ceny energii elektrycznej i opłaty dystrybucyjne mogą ulegać zmianie
+   wyłącznie w przypadkach i na zasadach określonych w obowiązujących
+   przepisach prawa.
+
+4. O każdej zmianie cen energii elektrycznej lub opłat dystrybucyjnych
+   Sprzedawca zawiadamia Odbiorcę w sposób przejrzysty i zrozumiały,
+   z wyprzedzeniem co najmniej jednego okresu rozliczeniowego przed
+   planowaną datą wprowadzenia zmian.
+
+5. W przypadku zmiany ceny energii elektrycznej Odbiorca ma prawo
+   wypowiedzenia Umowy bez ponoszenia kosztów i odszkodowań z tego
+   tytułu.
+
+Art. 8. Rozliczenia i faktury
+
+1. Rozliczenie za sprzedaną energię elektryczną oraz usługi dystrybucji
+   odbywa się na podstawie wskazań układu pomiarowo-rozliczeniowego,
+   w okresach rozliczeniowych określonych w Cenniku, Taryfie
+   lub Taryfie OSD.
+
+2. Sprzedawca wystawia Odbiorcy jedną zbiorczą fakturę VAT za każdy
+   okres rozliczeniowy, obejmującą zarówno należności za sprzedaż
+   energii elektrycznej, jak i za usługi dystrybucji.
+
+3. Faktura zawiera w szczególności:
+   1) dane Sprzedawcy i Odbiorcy;
+   2) numer i datę wystawienia faktury;
+   3) okres rozliczeniowy, którego dotyczy faktura;
+   4) ilość sprzedanej energii elektrycznej w kWh;
+   5) cenę jednostkową energii elektrycznej;
+   6) kwotę należności za sprzedaż energii elektrycznej;
+   7) wyszczególnienie opłat dystrybucyjnych z podziałem na składniki;
+   8) łączną kwotę należności;
+   9) termin płatności;
+  10) informację o sposobie i formie zapłaty.
+
+4. Termin płatności faktury wynosi nie mniej niż 14 dni od daty
+   doręczenia faktury Odbiorcy.
+
+5. Faktura może być doręczona Odbiorcy w formie papierowej na adres
+   korespondencyjny wskazany w Umowie lub — za zgodą Odbiorcy — w formie
+   elektronicznej (e-faktura) na adres poczty elektronicznej wskazany
+   przez Odbiorcę.
+
+6. W przypadku braku możliwości dokonania odczytu wskazań układu
+   pomiarowo-rozliczeniowego, rozliczenie może być dokonane na podstawie
+   szacunkowego zużycia energii elektrycznej, ustalonego w oparciu
+   o średnie zużycie z poprzednich okresów rozliczeniowych. Korekta
+   rozliczeń następuje po dokonaniu odczytu rzeczywistego.
+
+Art. 9. Opłaty dodatkowe i odsetki
+
+1. W przypadku opóźnienia w płatności Sprzedawca ma prawo do naliczania
+   odsetek ustawowych za opóźnienie, zgodnie z art. 481 Kodeksu cywilnego.
+
+2. Sprzedawca nie pobiera opłat za czynności, które zgodnie
+   z obowiązującymi przepisami prawa powinny być wykonywane nieodpłatnie.
+
+3. Wszelkie opłaty dodatkowe wynikające z Umowy lub OWU są zgodne
+   z obowiązującymi przepisami prawa i podlegają kontroli Prezesa URE.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ V
+              PRAWA I OBOWIĄZKI STRON
+--------------------------------------------------------------------------------
+
+Art. 10. Obowiązki Sprzedawcy
+
+1. Sprzedawca zobowiązuje się do:
+   1) sprzedaży energii elektrycznej na warunkach określonych w Umowie,
+      OWU oraz obowiązujących przepisach prawa;
+   2) zapewnienia świadczenia usług dystrybucji przez OSD;
+   3) terminowego wystawiania faktur zbiorczych;
+   4) udzielania Odbiorcy informacji dotyczących realizacji Umowy,
+      w tym w zakresie usług dystrybucji;
+   5) informowania Odbiorcy o planowanych zmianach cen z odpowiednim
+      wyprzedzeniem;
+   6) rozpatrywania reklamacji i skarg Odbiorcy w terminach i na zasadach
+      określonych w niniejszych OWU;
+   7) ochrony danych osobowych Odbiorcy zgodnie z obowiązującymi
+      przepisami prawa;
+   8) przekazywania OSD informacji niezbędnych do prawidłowego
+      świadczenia usług dystrybucji.
+
+Art. 11. Obowiązki Odbiorcy
+
+1. Odbiorca zobowiązuje się do:
+   1) terminowego regulowania należności wynikających z wystawionych
+      faktur, obejmujących zarówno sprzedaż energii elektrycznej,
+      jak i usługi dystrybucji;
+   2) niezwłocznego informowania Sprzedawcy o zmianie danych osobowych,
+      adresowych lub kontaktowych;
+   3) użytkowania energii elektrycznej zgodnie z warunkami Umowy,
+      warunkami przyłączenia i obowiązującymi przepisami prawa;
+   4) udostępniania układu pomiarowo-rozliczeniowego oraz instalacji
+      elektrycznej do odczytów, kontroli i konserwacji przez upoważnione
+      osoby OSD;
+   5) niezwłocznego informowania Sprzedawcy lub OSD o wszelkich
+      nieprawidłowościach w funkcjonowaniu układu pomiarowo-
+      -rozliczeniowego lub instalacji elektrycznej;
+   6) utrzymywania instalacji elektrycznej za układem pomiarowo-
+      -rozliczeniowym w należytym stanie technicznym;
+   7) nieprzekraczania mocy umownej określonej w Umowie.
+
+Art. 12. Prawa Odbiorcy
+
+1. Odbiorca ma prawo do:
+   1) otrzymywania energii elektrycznej o odpowiednich parametrach
+      jakościowych;
+   2) uzyskiwania informacji o cenach, stawkach opłat dystrybucyjnych
+      i warunkach sprzedaży energii elektrycznej;
+   3) wyboru sprzedawcy energii elektrycznej, zgodnie z art. 4j PE;
+   4) składania reklamacji i skarg dotyczących realizacji Umowy,
+      zarówno w zakresie sprzedaży, jak i dystrybucji;
+   5) korzystania z pomocy Rzecznika Odbiorców Paliw i Energii
+      (Koordynator do spraw negocjacji) oraz Prezesa URE;
+   6) uzyskiwania od OSD informacji o planowanych przerwach
+      w dostarczaniu energii elektrycznej;
+   7) otrzymywania bonifikat za niedotrzymanie standardów jakościowych
+      obsługi Odbiorców oraz parametrów jakościowych energii
+      elektrycznej, zgodnie z obowiązującymi przepisami prawa.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ VI
+           WSTRZYMANIE DOSTAW ENERGII ELEKTRYCZNEJ
+--------------------------------------------------------------------------------
+
+Art. 13. Wstrzymanie dostaw
+
+1. OSD może wstrzymać dostarczanie energii elektrycznej w przypadkach
+   określonych w art. 6b PE, w szczególności gdy:
+   1) instalacja Odbiorcy stwarza bezpośrednie zagrożenie dla życia,
+      zdrowia lub środowiska;
+   2) Odbiorca zwleka z zapłatą za świadczone usługi, co najmniej
+      przez okres 30 dni po upływie terminu płatności, po uprzednim
+      powiadomieniu na piśmie o zamiarze wstrzymania dostaw
+      i wyznaczeniu dodatkowego dwutygodniowego terminu do zapłaty;
+   3) Odbiorca nielegalnie pobiera energię elektryczną.
+
+2. OSD wznawia dostarczanie energii elektrycznej niezwłocznie po
+   ustaniu przyczyn wstrzymania, w szczególności po uregulowaniu
+   zaległych płatności przez Odbiorcę, nie później niż w terminie
+   określonym w przepisach prawa.
+
+3. Koszty wstrzymania i wznowienia dostarczania energii elektrycznej
+   ponosi strona, która dała powód do wstrzymania dostaw, na zasadach
+   określonych w Taryfie OSD.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ VII
+           WYPOWIEDZENIE I ROZWIĄZANIE UMOWY
+--------------------------------------------------------------------------------
+
+Art. 14. Wypowiedzenie Umowy
+
+1. Każda ze stron może wypowiedzieć Umowę zawartą na czas nieokreślony
+   z zachowaniem jednomiesięcznego okresu wypowiedzenia, ze skutkiem
+   na koniec miesiąca kalendarzowego, zgodnie z art. 4j ust. 3a PE.
+
+2. Wypowiedzenie Umowy wymaga formy pisemnej pod rygorem nieważności
+   i powinno zostać doręczone drugiej stronie listem poleconym,
+   osobiście w POB lub za pośrednictwem platformy elektronicznej
+   Sprzedawcy, o ile taka jest udostępniona.
+
+3. Odbiorca może wypowiedzieć Umowę bez ponoszenia jakichkolwiek kosztów
+   z tytułu wypowiedzenia, w tym kar umownych i odszkodowań, z wyjątkiem
+   obowiązku uregulowania należności za energię elektryczną i usługi
+   dystrybucji dostarczone do dnia rozwiązania Umowy.
+
+4. Sprzedawca może wypowiedzieć Umowę wyłącznie z ważnych przyczyn,
+   w szczególności w przypadku:
+   1) rażącego naruszenia przez Odbiorcę warunków Umowy lub OWU;
+   2) bezprawnego poboru energii elektrycznej;
+   3) zalegania przez Odbiorcę z płatnościami za co najmniej dwa pełne
+      okresy rozliczeniowe, po uprzednim wezwaniu do zapłaty i wyznaczeniu
+      dodatkowego terminu co najmniej 14 dni.
+
+5. W przypadku rozwiązania Umowy Kompleksowej Odbiorca zobowiązany jest
+   do zawarcia odrębnej umowy o świadczenie usług dystrybucji z OSD
+   lub umowy kompleksowej z innym sprzedawcą, w celu zapewnienia
+   ciągłości dostaw energii elektrycznej.
+
+6. W przypadku zmiany sprzedawcy, dotychczasowa Umowa ulega rozwiązaniu
+   z dniem rozpoczęcia sprzedaży energii elektrycznej przez nowego
+   sprzedawcę, z zachowaniem jednomiesięcznego okresu wypowiedzenia.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ VIII
+              REKLAMACJE I POSTĘPOWANIE SPORNE
+--------------------------------------------------------------------------------
+
+Art. 15. Reklamacje
+
+1. Odbiorca ma prawo składania reklamacji dotyczących realizacji Umowy
+   przez Sprzedawcę, w szczególności w zakresie:
+   1) nieprawidłowości w rozliczeniach za energię elektryczną i usługi
+      dystrybucji;
+   2) jakości obsługi Odbiorcy;
+   3) nieprawidłowości w wystawionych fakturach;
+   4) jakości i ciągłości dostaw energii elektrycznej;
+   5) wszelkich innych spraw związanych z realizacją Umowy.
+
+2. Reklamacja może zostać złożona:
+   1) pisemnie — listem poleconym na adres siedziby Sprzedawcy lub
+      osobiście w POB;
+   2) ustnie — telefonicznie pod numerem infolinii Sprzedawcy:
+      32 606 0 606 lub osobiście w POB, przy czym z reklamacji złożonej
+      ustnie sporządzany jest protokół;
+   3) elektronicznie — za pośrednictwem poczty elektronicznej na adres:
+      reklamacje@tauron-sprzedaz.pl lub poprzez formularz kontaktowy
+      na stronie internetowej Sprzedawcy.
+
+3. Reklamacja powinna zawierać co najmniej:
+   1) imię i nazwisko Odbiorcy;
+   2) adres MDE lub numer klienta/numer umowy;
+   3) opis przedmiotu reklamacji wraz z uzasadnieniem;
+   4) oczekiwany sposób rozstrzygnięcia reklamacji;
+   5) podpis Odbiorcy (w przypadku reklamacji pisemnej).
+
+4. Sprzedawca rozpatruje reklamację i udziela odpowiedzi w terminie
+   nie dłuższym niż 14 dni od dnia otrzymania reklamacji. W przypadku
+   gdy rozpatrzenie reklamacji wymaga przeprowadzenia dodatkowych
+   czynności wyjaśniających lub uzyskania informacji od OSD, termin ten
+   może ulec przedłużeniu do 30 dni, o czym Sprzedawca informuje
+   Odbiorcę.
+
+5. Reklamacje dotyczące usług dystrybucji (w tym jakości i ciągłości
+   dostaw, parametrów jakościowych energii, pracy układu pomiarowo-
+   -rozliczeniowego) Sprzedawca przekazuje do rozpatrzenia przez OSD,
+   informując o tym Odbiorcę.
+
+6. Odpowiedź na reklamację zawiera:
+   1) rozstrzygnięcie reklamacji (uznanie lub odmowę uznania);
+   2) uzasadnienie faktyczne i prawne w przypadku odmowy uznania
+      reklamacji;
+   3) informację o prawie Odbiorcy do dochodzenia roszczeń na drodze
+      sądowej, przed sądem polubownym lub za pośrednictwem pozasądowych
+      sposobów rozwiązywania sporów;
+   4) wskazanie terminu realizacji uznanej reklamacji.
+
+7. Odpowiedź na reklamację doręczana jest Odbiorcy w formie pisemnej
+   lub — za zgodą Odbiorcy — w formie elektronicznej.
+
+Art. 16. Bonifikaty
+
+1. W przypadku niedotrzymania przez OSD standardów jakościowych obsługi
+   Odbiorców lub parametrów jakościowych energii elektrycznej,
+   Odbiorcy przysługuje bonifikata na zasadach określonych w Taryfie OSD
+   oraz obowiązujących przepisach prawa.
+
+2. Bonifikata naliczana jest przez Sprzedawcę na podstawie informacji
+   uzyskanych od OSD i uwzględniana w najbliższej fakturze wystawianej
+   Odbiorcy.
+
+Art. 17. Postępowanie sporne
+
+1. Spory wynikające z Umowy mogą być rozstrzygane:
+   1) w drodze mediacji lub postępowania polubownego prowadzonego
+      przez Koordynatora do spraw negocjacji przy Prezesie URE;
+   2) w postępowaniu przed sądem polubownym przy Prezesie URE;
+   3) w postępowaniu przed właściwym sądem powszechnym.
+
+2. Odbiorca może również zwrócić się do:
+   1) Rzecznika Praw Konsumenta właściwego ze względu na miejsce
+      zamieszkania Odbiorcy;
+   2) Stałego Polubownego Sądu Konsumenckiego działającego przy
+      właściwym Wojewódzkim Inspektorze Inspekcji Handlowej;
+   3) organizacji konsumenckich (np. Federacja Konsumentów, Stowarzyszenie
+      Konsumentów Polskich).
+
+3. Złożenie reklamacji nie wyłącza prawa Odbiorcy do dochodzenia
+   roszczeń na drodze sądowej.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ IX
+              OCHRONA DANYCH OSOBOWYCH
+--------------------------------------------------------------------------------
+
+Art. 18. Ochrona danych osobowych
+
+1. Współadministratorami danych osobowych Odbiorcy są:
+   1) TAURON Sprzedaż sp. z o.o. z siedzibą w Krakowie,
+      ul. Łagiewnicka 60, 30-417 Kraków — w zakresie sprzedaży energii
+      elektrycznej;
+   2) TAURON Dystrybucja S.A. z siedzibą w Krakowie,
+      ul. Podgórska 25A, 31-035 Kraków — w zakresie świadczenia usług
+      dystrybucji.
+
+2. Dane osobowe Odbiorcy przetwarzane są w celu:
+   1) zawarcia i realizacji Umowy (art. 6 ust. 1 lit. b RODO);
+   2) wypełnienia obowiązków prawnych ciążących na administratorach
+      (art. 6 ust. 1 lit. c RODO);
+   3) dochodzenia lub obrony przed roszczeniami (art. 6 ust. 1 lit. f
+      RODO — prawnie uzasadniony interes administratora);
+   4) marketingu bezpośredniego produktów i usług własnych Sprzedawcy
+      (art. 6 ust. 1 lit. f RODO), o ile Odbiorca nie zgłosił sprzeciwu.
+
+3. Odbiorca posiada prawo do:
+   1) dostępu do treści swoich danych osobowych;
+   2) sprostowania danych;
+   3) usunięcia danych („prawo do bycia zapomnianym");
+   4) ograniczenia przetwarzania;
+   5) przenoszenia danych;
+   6) wniesienia sprzeciwu wobec przetwarzania;
+   7) cofnięcia zgody w dowolnym momencie, bez wpływu na zgodność
+      z prawem przetwarzania dokonanego na jej podstawie;
+   8) wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.
+
+4. Dane osobowe Odbiorcy mogą być udostępniane podmiotom uprawnionym
+   na podstawie przepisów prawa, a także podmiotom współpracującym
+   ze Sprzedawcą lub OSD w zakresie niezbędnym do realizacji Umowy.
+
+5. Dane osobowe Odbiorcy przechowywane są przez okres obowiązywania
+   Umowy oraz przez okres wymagany przepisami prawa po jej rozwiązaniu,
+   nie dłużej niż okres przedawnienia roszczeń.
+
+6. Kontakt z Inspektorem Ochrony Danych Sprzedawcy: iod@tauron-sprzedaz.pl.
+   Kontakt z Inspektorem Ochrony Danych OSD: iod@tauron-dystrybucja.pl.
+
+7. Podanie danych osobowych jest dobrowolne, lecz niezbędne do zawarcia
+   i realizacji Umowy.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ X
+              ODPOWIEDZIALNOŚĆ I SIŁA WYŻSZA
+--------------------------------------------------------------------------------
+
+Art. 19. Odpowiedzialność stron
+
+1. Sprzedawca ponosi odpowiedzialność za niewykonanie lub nienależyte
+   wykonanie Umowy w zakresie sprzedaży energii elektrycznej na zasadach
+   ogólnych Kodeksu cywilnego.
+
+2. OSD ponosi odpowiedzialność za niewykonanie lub nienależyte wykonanie
+   usług dystrybucji, w tym za przerwy w dostarczaniu energii
+   elektrycznej wynikające z przyczyn leżących po stronie OSD,
+   na zasadach określonych w PE, IRiESD i Taryfie OSD.
+
+3. Żadna ze stron nie ponosi odpowiedzialności za niewykonanie lub
+   nienależyte wykonanie Umowy spowodowane siłą wyższą. Przez siłę
+   wyższą rozumie się zdarzenie zewnętrzne, niemożliwe do przewidzenia
+   i niemożliwe do zapobieżenia, w szczególności: klęski żywiołowe,
+   powodzie, trzęsienia ziemi, pożary, epidemie, działania wojenne,
+   akty terroryzmu, strajki generalne, decyzje organów władzy publicznej.
+
+4. Strona dotknięta siłą wyższą zobowiązana jest niezwłocznie
+   powiadomić drugą stronę o zaistnieniu i ustaniu okoliczności siły
+   wyższej.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ XI
+                  POSTANOWIENIA KOŃCOWE
+--------------------------------------------------------------------------------
+
+Art. 20. Właściwość sądu i prawo właściwe
+
+1. Prawem właściwym dla Umowy jest prawo polskie.
+
+2. Wszelkie spory wynikające z niniejszej Umowy rozstrzygane będą
+   przez Sąd Arbitrażowy przy Izbie Gospodarczej w Katowicach, zgodnie
+   z regulaminem tego Sądu obowiązującym w dniu wszczęcia postępowania.
+
+Art. 21. Zmiany OWU
+
+1. Sprzedawca zastrzega sobie prawo do zmiany niniejszych OWU
+   w przypadkach uzasadnionych zmianą obowiązujących przepisów prawa,
+   decyzji organów regulacyjnych lub zmianą warunków świadczenia usług
+   dystrybucji przez OSD.
+
+2. O zmianach OWU Sprzedawca informuje Odbiorcę z wyprzedzeniem
+   co najmniej 30 dni przed datą wejścia w życie zmian, przesyłając
+   tekst zmieniony na trwałym nośniku.
+
+3. W przypadku braku akceptacji zmian OWU Odbiorca ma prawo
+   wypowiedzenia Umowy ze skutkiem na dzień wejścia w życie zmian,
+   bez ponoszenia dodatkowych kosztów z tego tytułu.
+
+Art. 22. Forma komunikacji
+
+1. Wszelkie oświadczenia i zawiadomienia związane z realizacją Umowy
+   wymagają formy pisemnej, chyba że Umowa lub OWU stanowią inaczej.
+
+2. Strony mogą komunikować się również drogą elektroniczną, o ile
+   obie strony wyraziły na to zgodę.
+
+3. Sprzedawca udostępnia następujące kanały kontaktu:
+   1) POB — adresy dostępne na stronie www.tauron.pl;
+   2) Infolinia: 32 606 0 606 (pn.–pt. 7:00–21:00, sob. 7:00–14:00);
+   3) E-mail: obsluga@tauron-sprzedaz.pl;
+   4) Platforma internetowa: moj.tauron.pl.
+
+4. W sprawach dotyczących sieci dystrybucyjnej, przyłączeń, awarii
+   i przerw w dostawie energii:
+   1) Pogotowie energetyczne OSD: 991 (całodobowo);
+   2) E-mail: obsluga@tauron-dystrybucja.pl.
+
+Art. 23. Postanowienia przejściowe
+
+1. Niniejsze OWU wchodzą w życie z dniem 1 lutego 2026 r.
+
+2. Do Umów zawartych przed wejściem w życie niniejszych OWU stosuje się
+   postanowienia dotychczasowych OWU, z zastrzeżeniem że postanowienia
+   nowych OWU, które są korzystniejsze dla Odbiorcy, stosuje się od dnia
+   wejścia w życie nowych OWU.
+
+3. W sprawach nieuregulowanych w Umowie oraz niniejszych OWU zastosowanie
+   mają przepisy PE, Kodeksu cywilnego, ustawy o prawach konsumenta
+   oraz innych właściwych aktów prawnych.
+
+Art. 24. Klauzula salwatoryjna
+
+1. Jeżeli którekolwiek z postanowień niniejszych OWU zostanie uznane
+   za nieważne lub nieskuteczne, nie wpływa to na ważność i skuteczność
+   pozostałych postanowień OWU.
+
+2. W miejsce postanowień nieważnych lub nieskutecznych stosuje się
+   odpowiednie przepisy prawa powszechnie obowiązującego.
+
+================================================================================
+                  ZAŁĄCZNIKI
+
+Załącznik nr 1: Taryfa OSD — wyciąg stawek dla grupy taryfowej G
+Załącznik nr 2: Aktualny Cennik energii elektrycznej
+Załącznik nr 3: Karta informacyjna MDE
+================================================================================
+
+              TAURON Sprzedaż sp. z o.o.
+              Kraków, dnia 1 lutego 2026 r.

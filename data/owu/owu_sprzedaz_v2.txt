@@ -1,0 +1,544 @@
+================================================================================
+        OGÓLNE WARUNKI UMÓW SPRZEDAŻY ENERGII ELEKTRYCZNEJ
+              DLA ODBIORCÓW W GOSPODARSTWACH DOMOWYCH
+                        (Taryfa G11)
+
+                         Wersja 2.0
+                  Obowiązuje od: 1 marca 2026 r.
+
+              TAURON Sprzedaż sp. z o.o.
+              ul. Łagiewnicka 60, 30-417 Kraków
+              KRS: 0000270491, NIP: 6312497521
+              REGON: 241468561
+              Kapitał zakładowy: 371 819 800,00 zł
+================================================================================
+
+PREAMBUŁA
+
+Niniejsze Ogólne Warunki Umów Sprzedaży Energii Elektrycznej dla Odbiorców
+w Gospodarstwach Domowych (dalej: „OWU") określają szczegółowe warunki
+sprzedaży energii elektrycznej przez TAURON Sprzedaż sp. z o.o. z siedzibą
+w Krakowie (dalej: „Sprzedawca") na rzecz odbiorców końcowych będących
+konsumentami w rozumieniu art. 22¹ ustawy z dnia 23 kwietnia 1964 r. —
+Kodeks cywilny (dalej: „Odbiorca" lub „Konsument"), przyłączonych do sieci
+dystrybucyjnej na poziomie napięcia niskiego, rozliczanych według taryfy G11.
+
+OWU stanowią integralną część Umowy Sprzedaży Energii Elektrycznej
+(dalej: „Umowa") zawartej pomiędzy Sprzedawcą a Odbiorcą.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ I
+                       DEFINICJE
+--------------------------------------------------------------------------------
+
+Art. 1. Definicje
+
+1. Ilekroć w niniejszych OWU jest mowa o:
+
+   1) „Cenniku" — rozumie się przez to zbiór cen i stawek opłat za energię
+      elektryczną stosowanych przez Sprzedawcę, zatwierdzony przez Prezesa
+      Urzędu Regulacji Energetyki lub ustalony przez Sprzedawcę zgodnie
+      z obowiązującymi przepisami prawa;
+
+   2) „Dniu roboczym" — rozumie się przez to każdy dzień od poniedziałku
+      do piątku, z wyłączeniem dni ustawowo wolnych od pracy;
+
+   3) „Energii elektrycznej" — rozumie się przez to energię elektryczną
+      w rozumieniu ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne
+      (Dz.U. z 2024 r. poz. 266 z późn. zm.), dalej: „PE";
+
+   4) „Grupie taryfowej" — rozumie się przez to grupę taryfową G11
+      (jedna strefa czasowa, całodobowa), do której zakwalifikowany jest
+      Odbiorca;
+
+   5) „IRiESD" — rozumie się przez to Instrukcję Ruchu i Eksploatacji
+      Sieci Dystrybucyjnej opracowaną przez właściwego Operatora Systemu
+      Dystrybucyjnego;
+
+   6) „Miejscu dostarczania energii elektrycznej" (dalej: „MDE") — rozumie
+      się przez to punkt w sieci, do którego przedsiębiorstwo energetyczne
+      dostarcza energię elektryczną, określony w Umowie;
+
+   7) „Operatorze Systemu Dystrybucyjnego" (dalej: „OSD") — rozumie się
+      przez to przedsiębiorstwo energetyczne zajmujące się dystrybucją
+      energii elektrycznej, do którego sieci przyłączony jest Odbiorca;
+
+   8) „Okresie rozliczeniowym" — rozumie się przez to okres, za który
+      następuje rozliczenie należności za sprzedaną energię elektryczną,
+      zgodnie z obowiązującym Cennikiem;
+
+   9) „POB" — rozumie się przez to Punkt Obsługi Klienta Sprzedawcy;
+
+  10) „Prawie energetycznym" lub „PE" — rozumie się przez to ustawę
+      z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz.U. z 2024 r.
+      poz. 266 z późn. zm.);
+
+  11) „Regulaminie" — rozumie się przez to Regulamin świadczenia usług
+      przez Sprzedawcę, stanowiący odrębny dokument dostępny w siedzibie
+      Sprzedawcy oraz na stronie internetowej;
+
+  12) „Taryfie" — rozumie się przez to zbiór cen i stawek opłat oraz
+      warunków ich stosowania, opracowany przez Sprzedawcę i wprowadzony
+      jako obowiązujący dla określonych w nim Odbiorców;
+
+  13) „Umowie" — rozumie się przez to Umowę Sprzedaży Energii Elektrycznej,
+      której integralną część stanowią niniejsze OWU;
+
+  14) „URE" — rozumie się przez to Urząd Regulacji Energetyki;
+
+  15) „Układzie pomiarowo-rozliczeniowym" — rozumie się przez to liczniki
+      i inne urządzenia pomiarowe lub rozliczeniowo-pomiarowe, w tym
+      teleinformatyczne systemy pomiarowe, służące do pomiaru lub
+      wyznaczenia ilości energii elektrycznej.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ II
+              PRZEDMIOT I ZAKRES UMOWY
+--------------------------------------------------------------------------------
+
+Art. 2. Przedmiot Umowy
+
+1. Przedmiotem Umowy jest sprzedaż energii elektrycznej przez Sprzedawcę
+   na rzecz Odbiorcy do MDE wskazanego w Umowie.
+
+2. Sprzedawca zobowiązuje się do sprzedaży energii elektrycznej w ilości
+   odpowiadającej zapotrzebowaniu Odbiorcy, z zastrzeżeniem postanowień
+   Umowy, niniejszych OWU oraz przepisów prawa.
+
+3. Odbiorca zobowiązuje się do odbioru energii elektrycznej oraz do
+   terminowego regulowania należności z tytułu jej sprzedaży.
+
+Art. 3. Zakres obowiązywania
+
+1. Niniejsze OWU mają zastosowanie do Umów zawieranych przez Sprzedawcę
+   z Odbiorcami w gospodarstwach domowych, zakwalifikowanymi do grupy
+   taryfowej G11.
+
+2. W przypadku rozbieżności pomiędzy postanowieniami Umowy a niniejszymi
+   OWU, pierwszeństwo mają postanowienia Umowy, chyba że bezwzględnie
+   obowiązujące przepisy prawa stanowią inaczej.
+
+3. Umowa zawierana jest na czas nieokreślony, chyba że strony postanowią
+   inaczej w treści Umowy. Umowa na czas określony ulega automatycznemu
+   przedłużeniu na czas nieokreślony, o ile żadna ze stron nie złoży
+   oświadczenia o jej nieprzedłużaniu na co najmniej 14 dni przed upływem
+   okresu, na który została zawarta.
+
+4. Odbiorca zostaje poinformowany o warunkach automatycznego przedłużenia
+   Umowy, czasie trwania Umowy oraz sposobach jej rozwiązania zgodnie
+   z art. 5 ust. 2 pkt 2 PE.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ III
+                  WARUNKI SPRZEDAŻY
+--------------------------------------------------------------------------------
+
+Art. 4. Rozpoczęcie sprzedaży
+
+1. Sprzedaż energii elektrycznej rozpoczyna się po spełnieniu łącznie
+   następujących warunków:
+   1) zawarciu Umowy przez Sprzedawcę i Odbiorcę;
+   2) posiadaniu przez Odbiorcę ważnej umowy o świadczenie usług
+      dystrybucji lub umowy kompleksowej z OSD;
+   3) skutecznym przeprowadzeniu procedury zmiany sprzedawcy,
+      o ile ma to zastosowanie;
+   4) przyłączeniu instalacji Odbiorcy do sieci OSD.
+
+2. Sprzedawca rozpoczyna sprzedaż energii elektrycznej w terminie
+   określonym w Umowie, nie później jednak niż w terminie wynikającym
+   z obowiązujących przepisów prawa i IRiESD.
+
+Art. 5. Standardy jakościowe
+
+1. Energia elektryczna dostarczana Odbiorcy powinna spełniać parametry
+   jakościowe określone w obowiązujących przepisach prawa, w tym
+   w rozporządzeniu Ministra Gospodarki w sprawie szczegółowych warunków
+   funkcjonowania systemu elektroenergetycznego.
+
+2. Sprzedawca nie odpowiada za parametry jakościowe energii elektrycznej
+   dostarczanej przez OSD.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ IV
+                  CENY I ROZLICZENIA
+--------------------------------------------------------------------------------
+
+Art. 6. Ceny energii elektrycznej
+
+1. Ceny energii elektrycznej określone są w Cenniku stanowiącym
+   załącznik do Umowy lub w Taryfie zatwierdzonej przez Prezesa URE.
+
+2. Ceny energii elektrycznej mogą ulegać zmianie wyłącznie w przypadkach
+   i na zasadach określonych w obowiązujących przepisach prawa,
+   w szczególności w PE oraz aktach wykonawczych do tej ustawy.
+
+3. O każdej zmianie cen energii elektrycznej Sprzedawca zawiadamia
+   Odbiorcę w sposób przejrzysty i zrozumiały, z wyprzedzeniem
+   co najmniej jednego okresu rozliczeniowego przed planowaną datą
+   wprowadzenia zmian.
+
+Art. 7. Rozliczenia i faktury
+
+1. Rozliczenie za sprzedaną energię elektryczną odbywa się na podstawie
+   wskazań układu pomiarowo-rozliczeniowego, w okresach rozliczeniowych
+   określonych w Cenniku lub Taryfie.
+
+2. Sprzedawca wystawia Odbiorcy fakturę VAT za każdy okres rozliczeniowy,
+   w terminie nie dłuższym niż 14 dni od dnia zakończenia okresu
+   rozliczeniowego.
+
+3. Faktura zawiera w szczególności:
+   1) dane Sprzedawcy i Odbiorcy;
+   2) numer i datę wystawienia faktury;
+   3) okres rozliczeniowy, którego dotyczy faktura;
+   4) ilość sprzedanej energii elektrycznej w kWh;
+   5) cenę jednostkową energii elektrycznej;
+   6) łączną kwotę należności z tytułu sprzedaży energii elektrycznej;
+   7) termin płatności;
+   8) informację o sposobie i formie zapłaty.
+
+4. Termin płatności faktury wynosi nie mniej niż 14 dni od daty
+   doręczenia faktury Odbiorcy.
+
+5. Faktura może być doręczona Odbiorcy w formie papierowej na adres
+   korespondencyjny wskazany w Umowie lub — za zgodą Odbiorcy — w formie
+   elektronicznej (e-faktura) na adres poczty elektronicznej wskazany
+   przez Odbiorcę.
+
+6. W przypadku braku możliwości dokonania odczytu wskazań układu
+   pomiarowo-rozliczeniowego, rozliczenie może być dokonane na podstawie
+   szacunkowego zużycia energii elektrycznej, ustalonego w oparciu
+   o średnie zużycie z poprzednich okresów rozliczeniowych. Korekta
+   rozliczeń następuje po dokonaniu odczytu rzeczywistego.
+
+Art. 8. Zmiana cen i opłaty dodatkowe
+
+1. W przypadku opóźnienia w płatności Sprzedawca ma prawo do naliczania
+   odsetek ustawowych za opóźnienie, zgodnie z art. 481 Kodeksu cywilnego.
+
+2. Sprzedawca zastrzega sobie prawo do zmiany ceny energii elektrycznej
+   w trakcie trwania Umowy, informując o tym Odbiorcę z 7-dniowym
+   wyprzedzeniem poprzez publikację nowego Cennika na stronie internetowej
+   Sprzedawcy. Brak złożenia przez Odbiorcę pisemnego sprzeciwu w terminie
+   7 dni od publikacji nowego Cennika oznacza akceptację nowych cen.
+
+3. Sprzedawca nie pobiera opłat za czynności, które zgodnie
+   z obowiązującymi przepisami prawa powinny być wykonywane nieodpłatnie.
+
+4. Wszelkie opłaty dodatkowe wynikające z Umowy lub OWU są zgodne
+   z obowiązującymi przepisami prawa i podlegają kontroli Prezesa URE.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ V
+              PRAWA I OBOWIĄZKI STRON
+--------------------------------------------------------------------------------
+
+Art. 9. Obowiązki Sprzedawcy
+
+1. Sprzedawca zobowiązuje się do:
+   1) sprzedaży energii elektrycznej na warunkach określonych w Umowie,
+      OWU oraz obowiązujących przepisach prawa;
+   2) terminowego wystawiania faktur;
+   3) udzielania Odbiorcy informacji dotyczących realizacji Umowy;
+   4) informowania Odbiorcy o planowanych zmianach cen;
+   5) rozpatrywania reklamacji i skarg Odbiorcy w terminach i na zasadach
+      określonych w Regulaminie;
+   6) ochrony danych osobowych Odbiorcy zgodnie z obowiązującymi
+      przepisami prawa;
+   7) zapewnienia Odbiorcy dostępu do informacji o aktualnych cenach,
+      Taryfach oraz warunkach rozliczeń.
+
+Art. 10. Obowiązki Odbiorcy
+
+1. Odbiorca zobowiązuje się do:
+   1) terminowego regulowania należności wynikających z wystawionych
+      faktur;
+   2) niezwłocznego informowania Sprzedawcy o zmianie danych osobowych,
+      adresowych lub kontaktowych;
+   3) użytkowania energii elektrycznej zgodnie z warunkami Umowy
+      i obowiązującymi przepisami prawa;
+   4) udostępniania układu pomiarowo-rozliczeniowego do odczytów
+      i kontroli przez upoważnione osoby;
+   5) niezwłocznego informowania OSD o wszelkich nieprawidłowościach
+      w funkcjonowaniu układu pomiarowo-rozliczeniowego.
+
+Art. 11. Prawa Odbiorcy
+
+1. Odbiorca ma prawo do:
+   1) otrzymywania energii elektrycznej o odpowiednich parametrach
+      jakościowych;
+   2) uzyskiwania informacji o cenach i warunkach sprzedaży energii
+      elektrycznej;
+   3) wyboru sprzedawcy energii elektrycznej, zgodnie z art. 4j PE;
+   4) składania reklamacji i skarg dotyczących realizacji Umowy;
+   5) korzystania z pomocy Rzecznika Odbiorców Paliw i Energii
+      (Koordynator do spraw negocjacji) oraz Prezesa URE;
+   6) odstąpienia od Umowy zawartej na odległość lub poza lokalem
+      przedsiębiorstwa w terminie 14 dni, zgodnie z art. 13 OWU.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ VI
+           WYPOWIEDZENIE I ROZWIĄZANIE UMOWY
+--------------------------------------------------------------------------------
+
+Art. 12. Wypowiedzenie Umowy
+
+1. Każda ze stron może wypowiedzieć Umowę zawartą na czas nieokreślony,
+   z zachowaniem okresu wypowiedzenia określonego w ust. 3 niniejszego
+   artykułu.
+
+2. Wypowiedzenie Umowy wymaga formy pisemnej pod rygorem nieważności
+   i powinno zostać doręczone drugiej stronie listem poleconym,
+   osobiście w POB lub za pośrednictwem platformy elektronicznej
+   Sprzedawcy, o ile taka jest udostępniona.
+
+3. Okres wypowiedzenia Umowy wynosi 3 (trzy) miesiące i rozpoczyna bieg
+   z pierwszym dniem miesiąca kalendarzowego następującego po miesiącu,
+   w którym oświadczenie o wypowiedzeniu zostało doręczone drugiej
+   stronie.
+
+4. Odbiorca może wypowiedzieć Umowę bez ponoszenia jakichkolwiek kosztów
+   z tytułu wypowiedzenia, w tym kar umownych i odszkodowań, z wyjątkiem
+   obowiązku uregulowania należności za energię elektryczną dostarczoną
+   do dnia rozwiązania Umowy.
+
+5. Sprzedawca może wypowiedzieć Umowę wyłącznie z ważnych przyczyn,
+   w szczególności w przypadku:
+   1) rażącego naruszenia przez Odbiorcę warunków Umowy lub OWU;
+   2) bezprawnego poboru energii elektrycznej;
+   3) zalegania przez Odbiorcę z płatnościami za co najmniej dwa pełne
+      okresy rozliczeniowe, po uprzednim wezwaniu do zapłaty i wyznaczeniu
+      dodatkowego terminu co najmniej 14 dni.
+
+6. Umowa zawarta na czas określony wygasa z upływem okresu, na który
+   została zawarta, chyba że dojdzie do jej przedłużenia zgodnie
+   z art. 3 ust. 3 niniejszych OWU.
+
+7. W przypadku zmiany sprzedawcy, dotychczasowa Umowa ulega rozwiązaniu
+   z dniem rozpoczęcia sprzedaży energii elektrycznej przez nowego
+   sprzedawcę, z zachowaniem okresu wypowiedzenia, o którym mowa
+   w ust. 3 powyżej.
+
+Art. 13. Odstąpienie od Umowy (umowy zawarte na odległość lub poza lokalem)
+
+1. Odbiorca będący konsumentem, który zawarł Umowę na odległość lub poza
+   lokalem przedsiębiorstwa Sprzedawcy, ma prawo odstąpienia od Umowy
+   bez podania przyczyny, w terminie 14 dni od dnia zawarcia Umowy,
+   zgodnie z art. 27 ustawy z dnia 30 maja 2014 r. o prawach konsumenta
+   (Dz.U. z 2023 r. poz. 2759 z późn. zm.).
+
+2. Do zachowania terminu, o którym mowa w ust. 1, wystarczające jest
+   wysłanie oświadczenia o odstąpieniu przed upływem tego terminu.
+
+3. Oświadczenie o odstąpieniu od Umowy może zostać złożone:
+   1) na formularzu odstąpienia stanowiącym Załącznik nr 1 do niniejszych
+      OWU;
+   2) w formie dowolnego jednoznacznego oświadczenia woli Odbiorcy;
+   3) za pośrednictwem platformy elektronicznej Sprzedawcy, o ile taka
+      jest udostępniona.
+
+4. W przypadku odstąpienia od Umowy, Umowę uważa się za niezawartą.
+   Odbiorca ponosi jedynie koszty energii elektrycznej dostarczonej
+   do dnia otrzymania przez Sprzedawcę oświadczenia o odstąpieniu,
+   o ile Odbiorca wyraził zgodę na rozpoczęcie świadczenia przed
+   upływem terminu na odstąpienie.
+
+5. Sprzedawca niezwłocznie, nie później niż w terminie 14 dni od dnia
+   otrzymania oświadczenia o odstąpieniu, zwraca Odbiorcy wszystkie
+   dokonane przez niego płatności, pomniejszone o kwotę proporcjonalną
+   do zakresu świadczenia spełnionego do chwili odstąpienia.
+
+6. Sprzedawca informuje Odbiorcę o prawie do odstąpienia od Umowy
+   przed zawarciem Umowy na odległość lub poza lokalem przedsiębiorstwa,
+   przekazując wzór formularza odstąpienia.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ VII
+              REKLAMACJE I POSTĘPOWANIE SPORNE
+--------------------------------------------------------------------------------
+
+Art. 14. Reklamacje — postanowienia ogólne
+
+1. Odbiorca ma prawo składania reklamacji dotyczących realizacji Umowy
+   przez Sprzedawcę.
+
+2. Reklamacje mogą dotyczyć w szczególności nieprawidłowości
+   w rozliczeniach, wystawionych fakturach oraz jakości obsługi.
+
+Art. 15. Tryb i zasady rozpatrywania reklamacji
+
+1. Szczegółowy tryb składania i rozpatrywania reklamacji określa
+   Regulamin, o którym mowa w art. 1 ust. 1 pkt 11 niniejszych OWU.
+
+2. Regulamin dostępny jest w siedzibie Sprzedawcy, w POB oraz na stronie
+   internetowej Sprzedawcy pod adresem www.tauron.pl/regulamin.
+
+3. Sprzedawca dokłada wszelkich starań, aby reklamacje były rozpatrywane
+   w sposób rzetelny i terminowy.
+
+Art. 16. Postępowanie sporne
+
+1. Spory wynikające z Umowy mogą być rozstrzygane:
+   1) w drodze mediacji lub postępowania polubownego prowadzonego
+      przez Koordynatora do spraw negocjacji przy Prezesie URE;
+   2) w postępowaniu przed sądem polubownym przy Prezesie URE;
+   3) w postępowaniu przed właściwym sądem powszechnym.
+
+2. Odbiorca może również zwrócić się do:
+   1) Rzecznika Praw Konsumenta właściwego ze względu na miejsce
+      zamieszkania Odbiorcy;
+   2) Stałego Polubownego Sądu Konsumenckiego działającego przy
+      właściwym Wojewódzkim Inspektorze Inspekcji Handlowej;
+   3) organizacji konsumenckich (np. Federacja Konsumentów, Stowarzyszenie
+      Konsumentów Polskich).
+
+3. Złożenie reklamacji nie wyłącza prawa Odbiorcy do dochodzenia
+   roszczeń na drodze sądowej.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ VIII
+              OCHRONA DANYCH OSOBOWYCH
+--------------------------------------------------------------------------------
+
+Art. 17. Ochrona danych osobowych
+
+1. Administratorem danych osobowych Odbiorcy jest TAURON Sprzedaż
+   sp. z o.o. z siedzibą w Krakowie, ul. Łagiewnicka 60, 30-417 Kraków.
+
+2. Dane osobowe Odbiorcy przetwarzane są w celu:
+   1) zawarcia i realizacji Umowy (art. 6 ust. 1 lit. b RODO);
+   2) wypełnienia obowiązków prawnych ciążących na Sprzedawcy
+      (art. 6 ust. 1 lit. c RODO);
+   3) dochodzenia lub obrony przed roszczeniami (art. 6 ust. 1 lit. f
+      RODO — prawnie uzasadniony interes administratora);
+   4) marketingu bezpośredniego produktów i usług własnych Sprzedawcy
+      (art. 6 ust. 1 lit. f RODO), o ile Odbiorca nie zgłosił sprzeciwu.
+
+3. Odbiorca posiada prawo do:
+   1) dostępu do treści swoich danych osobowych;
+   2) sprostowania danych;
+   3) usunięcia danych („prawo do bycia zapomnianym");
+   4) ograniczenia przetwarzania;
+   5) przenoszenia danych;
+   6) wniesienia sprzeciwu wobec przetwarzania;
+   7) cofnięcia zgody w dowolnym momencie, bez wpływu na zgodność
+      z prawem przetwarzania dokonanego na jej podstawie;
+   8) wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.
+
+4. Dane osobowe Odbiorcy mogą być udostępniane podmiotom uprawnionym
+   na podstawie przepisów prawa, a także podmiotom współpracującym
+   ze Sprzedawcą w zakresie niezbędnym do realizacji Umowy (np. OSD,
+   podmioty świadczące usługi pocztowe, informatyczne, księgowe).
+
+5. Dane osobowe Odbiorcy przechowywane są przez okres obowiązywania
+   Umowy oraz przez okres wymagany przepisami prawa po jej rozwiązaniu,
+   nie dłużej niż okres przedawnienia roszczeń.
+
+6. Kontakt z Inspektorem Ochrony Danych: iod@tauron-sprzedaz.pl.
+
+7. Podanie danych osobowych jest dobrowolne, lecz niezbędne do zawarcia
+   i realizacji Umowy.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ IX
+           INFORMACJE PRZEDUMOWNE I OBOWIĄZKI INFORMACYJNE
+--------------------------------------------------------------------------------
+
+Art. 18. Obowiązki informacyjne Sprzedawcy
+
+1. Przed zawarciem Umowy Sprzedawca udostępnia Odbiorcy w sposób
+   jasny i zrozumiały następujące informacje, zgodnie z art. 5 ust. 4 PE
+   oraz art. 12 ustawy o prawach konsumenta:
+   1) dane identyfikujące Sprzedawcę (firmę, adres siedziby, KRS, NIP);
+   2) adres, pod którym Odbiorca może składać reklamacje;
+   3) treść proponowanej Umowy, w tym OWU;
+   4) aktualny Cennik lub Taryfę;
+   5) informacje o prawie do odstąpienia od Umowy zawartej na odległość
+      lub poza lokalem przedsiębiorstwa (art. 13 OWU);
+   6) informacje o czasie trwania Umowy, warunkach przedłużenia
+      i wypowiedzenia;
+   7) informacje o dostępnych formach płatności;
+   8) informację o prawie do zmiany sprzedawcy;
+   9) sposoby pozasądowego rozwiązywania sporów;
+  10) informacje o procedurze reklamacyjnej.
+
+2. Informacje, o których mowa w ust. 1, przekazywane są Odbiorcy
+   na trwałym nośniku przed zawarciem Umowy, a w przypadku Umów
+   zawieranych na odległość — w sposób odpowiedni do użytego środka
+   porozumiewania się na odległość.
+
+--------------------------------------------------------------------------------
+                       ROZDZIAŁ X
+                  POSTANOWIENIA KOŃCOWE
+--------------------------------------------------------------------------------
+
+Art. 19. Zmiany OWU
+
+1. Sprzedawca zastrzega sobie prawo do zmiany niniejszych OWU
+   w przypadkach uzasadnionych zmianą obowiązujących przepisów prawa
+   lub decyzji organów regulacyjnych.
+
+2. O zmianach OWU Sprzedawca informuje Odbiorcę z wyprzedzeniem
+   co najmniej 30 dni przed datą wejścia w życie zmian, przesyłając
+   tekst zmieniony na trwałym nośniku.
+
+3. W przypadku braku akceptacji zmian OWU Odbiorca ma prawo
+   wypowiedzenia Umowy ze skutkiem na dzień wejścia w życie zmian,
+   bez ponoszenia dodatkowych kosztów z tego tytułu.
+
+Art. 20. Forma komunikacji
+
+1. Wszelkie oświadczenia i zawiadomienia związane z realizacją Umowy
+   wymagają formy pisemnej, chyba że Umowa lub OWU stanowią inaczej.
+
+2. Strony mogą komunikować się również drogą elektroniczną, o ile
+   obie strony wyraziły na to zgodę.
+
+3. Sprzedawca udostępnia następujące kanały kontaktu:
+   1) POB — adresy dostępne na stronie www.tauron.pl;
+   2) Infolinia: 32 606 0 606 (pn.–pt. 7:00–21:00, sob. 7:00–14:00);
+   3) E-mail: obsluga@tauron-sprzedaz.pl;
+   4) Platforma internetowa: moj.tauron.pl.
+
+Art. 21. Właściwość sądu i prawo właściwe
+
+1. Prawem właściwym dla Umowy jest prawo polskie.
+
+2. Wszelkie spory wynikające z Umowy, które nie zostaną rozstrzygnięte
+   w drodze polubownej, podlegają rozstrzygnięciu przez sąd powszechny
+   właściwy dla miejsca zamieszkania Odbiorcy będącego konsumentem,
+   zgodnie z przepisami Kodeksu postępowania cywilnego.
+
+Art. 22. Postanowienia przejściowe
+
+1. Niniejsze OWU wchodzą w życie z dniem 1 marca 2026 r.
+
+2. Do Umów zawartych przed wejściem w życie niniejszych OWU stosuje się
+   postanowienia dotychczasowych OWU, z zastrzeżeniem że postanowienia
+   nowych OWU, które są korzystniejsze dla Odbiorcy, stosuje się od dnia
+   wejścia w życie nowych OWU.
+
+3. W sprawach nieuregulowanych w Umowie oraz niniejszych OWU zastosowanie
+   mają przepisy PE, Kodeksu cywilnego, ustawy o prawach konsumenta
+   oraz innych właściwych aktów prawnych.
+
+Art. 23. Klauzula salwatoryjna
+
+1. Jeżeli którekolwiek z postanowień niniejszych OWU zostanie uznane
+   za nieważne lub nieskuteczne, nie wpływa to na ważność i skuteczność
+   pozostałych postanowień OWU.
+
+2. W miejsce postanowień nieważnych lub nieskutecznych stosuje się
+   odpowiednie przepisy prawa powszechnie obowiązującego.
+
+================================================================================
+                  ZAŁĄCZNIKI
+
+Załącznik nr 1: Wzór formularza odstąpienia od umowy zawartej na
+                odległość lub poza lokalem przedsiębiorstwa
+Załącznik nr 2: Aktualny Cennik energii elektrycznej dla grupy
+                taryfowej G11
+================================================================================
+
+              TAURON Sprzedaż sp. z o.o.
+              Kraków, dnia 1 marca 2026 r.

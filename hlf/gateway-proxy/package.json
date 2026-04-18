@@ -1,0 +1,14 @@
+{
+  "name": "ai-tauron-fabric-proxy",
+  "version": "1.0.0",
+  "description": "REST proxy for Hyperledger Fabric Gateway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "fabric-ca-client": "^2.2.20",
+    "fabric-network": "^2.2.20"
+  }
+}

@@ -1,0 +1,341 @@
+================================================================================
+                    UMOWA SPRZEDAŻY ENERGII ELEKTRYCZNEJ
+                              Nr ES/2025/07/00418
+================================================================================
+
+Zawarta w dniu 22 czerwca 2025 r. w Bielsku-Białej pomiędzy:
+
+PolskiPrąd sp. z o.o. z siedzibą w Warszawie, ul. Marszałkowska 115,
+00-102 Warszawa, wpisaną do rejestru przedsiębiorców Krajowego Rejestru
+Sądowego prowadzonego przez Sąd Rejonowy dla m.st. Warszawy w Warszawie,
+XII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem
+KRS 0000487231, NIP: 5272718490, REGON: 146982375, kapitał zakładowy:
+85 000 000,00 zł, reprezentowaną przez:
+    - Tomasza Kamińskiego — Kierownika Działu Sprzedaży (pełnomocnictwo
+      nr PKN/2025/0134 z dnia 10.01.2025 r.)
+zwaną dalej „Sprzedawcą",
+
+a
+
+Piotrem Dąbrowskim, zamieszkałym przy ul. Cieszyńskiej 42/7, 43-300
+Bielsko-Biała, PESEL: 90061589234, legitymującym się dowodem osobistym
+seria EFG nr 567812,
+zwanym dalej „Odbiorcą",
+
+łącznie zwanymi „Stronami", a każda z osobna „Stroną".
+
+
+
+§ 1. PRZEDMIOT UMOWY
+
+1. Przedmiotem niniejszej Umowy jest sprzedaż energii elektrycznej przez
+   Sprzedawcę na rzecz Odbiorcy do punktu poboru energii (PPE) zlokalizowanego
+   pod adresem: ul. Cieszyńska 42/7, 43-300 Bielsko-Biała.
+
+2. Numer punktu poboru energii (PPE): PL_ZEWD_1402034567_09.
+
+3. Sprzedawca zobowiązuje się do sprzedaży energii elektrycznej w ilości
+   odpowiadającej zapotrzebowaniu Odbiorcy w danym okresie rozliczeniowym,
+   a Odbiorca zobowiązuje się do odbioru i zapłaty za pobraną energię
+   elektryczną na warunkach określonych w niniejszej Umowie.
+
+4. Energia elektryczna dostarczana jest na potrzeby gospodarstwa domowego
+   Odbiorcy (odbiorca w grupie taryfowej G — grupa przyłączeniowa IV).
+
+5. Umowa nie obejmuje usług dystrybucji energii elektrycznej, które są
+   realizowane na podstawie odrębnej umowy zawartej pomiędzy Odbiorcą
+   a właściwym Operatorem Systemu Dystrybucyjnego (OSD).
+
+6. Planowane roczne zużycie energii elektrycznej w punkcie poboru energii
+   wynosi szacunkowo 2 400 kWh.
+
+
+§ 2. DEFINICJE
+
+Na potrzeby niniejszej Umowy poniższe pojęcia mają następujące znaczenie:
+
+1. „Energia elektryczna" — energia w rozumieniu ustawy z dnia 10 kwietnia
+   1997 r. — Prawo energetyczne (Dz. U. z 2024 r. poz. 266 z późn. zm.),
+   zwanej dalej „Prawem energetycznym" lub „PE".
+
+2. „Punkt poboru energii" (PPE) — miejsce w sieci elektroenergetycznej,
+   w którym dokonywany jest pomiar ilości energii elektrycznej dostarczanej
+   do instalacji Odbiorcy, identyfikowane unikalnym kodem PPE.
+
+3. „Operator Systemu Dystrybucyjnego" (OSD) — przedsiębiorstwo energetyczne
+   posiadające koncesję na dystrybucję energii elektrycznej, odpowiedzialne
+   za ruch sieciowy w systemie dystrybucyjnym.
+
+4. „Taryfa" — zbiór cen i stawek opłat oraz warunków ich stosowania,
+   zatwierdzony przez Prezesa Urzędu Regulacji Energetyki (URE).
+
+5. „Grupa taryfowa" — grupa Odbiorców korzystających z energii elektrycznej,
+   dla których stosuje się jeden zestaw cen i stawek opłat oraz warunków
+   ich stosowania.
+
+6. „Okres rozliczeniowy" — przedział czasu, za który dokonywane jest
+   rozliczenie należności z tytułu sprzedaży energii elektrycznej.
+
+7. „Układ pomiarowo-rozliczeniowy" — liczniki i inne urządzenia pomiarowe
+   lub pomiarowo-rozliczeniowe, w tym urządzenia do pomiaru i rejestracji
+   wielkości fizycznych istotnych z punktu widzenia rozliczeń.
+
+8. „Cennik" — zbiór cen i stawek opłat za energię elektryczną stosowany
+   przez Sprzedawcę, zatwierdzony przez Prezesa URE lub publikowany zgodnie
+   z obowiązującymi przepisami prawa.
+
+9. „IRiESD" — Instrukcja Ruchu i Eksploatacji Sieci Dystrybucyjnej,
+   zatwierdzona przez Prezesa URE.
+
+
+§ 3. WARUNKI SPRZEDAŻY ENERGII ELEKTRYCZNEJ
+
+1. Sprzedawca sprzedaje energię elektryczną Odbiorcy zgodnie z:
+   a) obowiązującymi przepisami prawa, w tym Prawem energetycznym oraz
+      aktami wykonawczymi;
+   b) warunkami niniejszej Umowy;
+   c) obowiązującą taryfą lub cennikiem Sprzedawcy;
+   d) Generalną Umową Dystrybucji zawartą pomiędzy Sprzedawcą a OSD.
+
+2. Sprzedaż energii elektrycznej odbywa się w grupie taryfowej G11
+   (jednostrefowa — całodobowa).
+
+3. Rozpoczęcie sprzedaży energii elektrycznej nastąpi z dniem 1 lipca
+   2025 r., pod warunkiem skutecznego przeprowadzenia procedury zmiany
+   sprzedawcy, o ile dotyczy.
+
+4. Odbiorca jest przyłączony do sieci dystrybucyjnej TAURON Dystrybucja S.A.
+   na napięciu 230/400 V, moc przyłączeniowa wynosi 12 kW.
+
+5. Odbiorca zobowiązany jest do:
+   a) pobierania energii elektrycznej zgodnie z obowiązującymi przepisami
+      i warunkami Umowy;
+   b) utrzymywania instalacji odbiorczej w należytym stanie technicznym,
+      zgodnie z obowiązującymi przepisami;
+   c) niezwłocznego informowania Sprzedawcy o wszelkich zmianach danych
+      osobowych, adresu korespondencyjnego oraz wszelkich okolicznościach
+      mogących mieć wpływ na realizację Umowy;
+   d) udostępniania nieruchomości w celu przeprowadzenia kontroli układu
+      pomiarowo-rozliczeniowego przez upoważnionych przedstawicieli OSD.
+
+6. Rozliczenia za pobraną energię elektryczną dokonywane są w okresach
+   rozliczeniowych wynoszących jeden miesiąc kalendarzowy lub dwa miesiące
+   kalendarzowe, zgodnie z harmonogramem odczytów OSD.
+
+
+§ 4. CENA I WARUNKI PŁATNOŚCI
+
+1. Cena energii elektrycznej jest określona w Cenniku Sprzedawcy,
+   zatwierdzonym przez Prezesa Urzędu Regulacji Energetyki na rok 2025,
+   obowiązującym od dnia 1 stycznia 2025 r.
+
+2. Na dzień zawarcia Umowy cena energii elektrycznej w grupie taryfowej G11
+   wynosi:
+   a) cena za energię elektryczną czynną: 0,6247 zł/kWh netto;
+   b) opłata handlowa: 7,50 zł/miesiąc netto.
+
+3. Ceny i stawki opłat, o których mowa w ust. 2, nie zawierają podatku
+   od towarów i usług (VAT) oraz podatku akcyzowego. Do cen netto doliczany
+   jest podatek VAT w obowiązującej stawce (na dzień zawarcia Umowy: 23%)
+   oraz podatek akcyzowy (na dzień zawarcia Umowy: 5,00 zł/MWh).
+
+4. Sprzedawca wystawia faktury VAT w okresach rozliczeniowych, o których mowa
+   w § 3 ust. 6. Faktura jest wystawiana w terminie do 14 dni od zakończenia
+   okresu rozliczeniowego.
+
+5. Odbiorca zobowiązany jest do zapłaty należności wynikających z faktury
+   w terminie 14 dni od daty wystawienia faktury, przelewem na rachunek
+   bankowy Sprzedawcy wskazany na fakturze.
+
+6. W przypadku opóźnienia w zapłacie Sprzedawca jest uprawniony do naliczania
+   odsetek ustawowych za opóźnienie zgodnie z art. 481 Kodeksu cywilnego.
+
+7. Odbiorca może dokonać wyboru formy otrzymywania faktur:
+   a) w formie papierowej;
+   b) w formie elektronicznej (e-faktura).
+
+8. Zmiana cen energii elektrycznej następuje w przypadku zatwierdzenia nowej
+   taryfy lub cennika przez Prezesa URE. O zmianie cen Sprzedawca
+   informuje Odbiorcę z co najmniej 14-dniowym wyprzedzeniem.
+
+
+§ 5. PRAWA I OBOWIĄZKI STRON
+
+1. Sprzedawca jest zobowiązany do:
+   a) sprzedaży energii elektrycznej zgodnie z warunkami niniejszej Umowy
+      oraz obowiązującymi przepisami prawa;
+   b) informowania Odbiorcy o zmianach cen, stawek opłat oraz warunków
+      sprzedaży z odpowiednim wyprzedzeniem;
+   c) rozpatrywania reklamacji Odbiorcy zgodnie z obowiązującymi przepisami;
+   d) zapewnienia Odbiorcy dostępu do informacji o prawach konsumenta.
+
+2. Odbiorca ma prawo do:
+   a) otrzymywania energii elektrycznej o określonych parametrach jakościowych;
+   b) uzyskiwania informacji dotyczących rozliczeń, cen i stawek opłat;
+   c) składania reklamacji w trybie określonym w § 9 niniejszej Umowy;
+   d) zmiany sprzedawcy energii elektrycznej zgodnie z przepisami Prawa
+      energetycznego;
+   e) wypowiedzenia Umowy na warunkach określonych w § 7.
+
+3. Odbiorca ma prawo do nieodpłatnego uzyskania od Sprzedawcy kopii
+   niniejszej Umowy w każdym czasie.
+
+
+§ 6. ODPOWIEDZIALNOŚĆ STRON
+
+1. Sprzedawca ponosi odpowiedzialność za niewykonanie lub nienależyte
+   wykonanie Umowy na zasadach określonych w Kodeksie cywilnym, z wyłączeniem
+   przypadków, gdy niewykonanie lub nienależyte wykonanie wynika z:
+   a) siły wyższej;
+   b) działań lub zaniechań Odbiorcy;
+   c) działań lub zaniechań OSD;
+   d) przerw w dostawie energii elektrycznej spowodowanych przyczynami
+      leżącymi po stronie OSD.
+
+2. Sprzedawca nie ponosi odpowiedzialności za przerwy w dostawie energii
+   elektrycznej ani za parametry jakościowe energii elektrycznej, za które
+   odpowiedzialność ponosi OSD.
+
+3. Odbiorca ponosi odpowiedzialność za szkody powstałe w związku z:
+   a) nieprzestrzeganiem warunków Umowy;
+   b) nieprawidłową eksploatacją instalacji odbiorczej;
+   c) nielegalnym poborem energii elektrycznej.
+
+4. Żadna ze Stron nie ponosi odpowiedzialności za szkody powstałe wskutek
+   siły wyższej.
+
+
+§ 7. WYPOWIEDZENIE UMOWY
+
+1. Umowa zostaje zawarta na czas nieokreślony, począwszy od dnia określonego
+   w § 3 ust. 3.
+
+2. Każda ze Stron może wypowiedzieć Umowę z zachowaniem jednomiesięcznego
+   okresu wypowiedzenia, ze skutkiem na koniec miesiąca kalendarzowego.
+
+3. Wypowiedzenie Umowy wymaga formy pisemnej pod rygorem nieważności
+   i powinno być doręczone drugiej Stronie listem poleconym lub osobiście
+   w punkcie obsługi klienta Sprzedawcy.
+
+4. Odbiorca może wypowiedzieć Umowę bez ponoszenia jakichkolwiek kosztów
+   i odszkodowań z tytułu wcześniejszego rozwiązania Umowy.
+
+5. Sprzedawca może wypowiedzieć Umowę w przypadku:
+   a) cofnięcia koncesji na obrót energią elektryczną;
+   b) powtarzającego się nieterminowego regulowania należności przez Odbiorcę,
+      po uprzednim wezwaniu do zapłaty i wyznaczeniu dodatkowego terminu;
+   c) stwierdzenia nielegalnego poboru energii elektrycznej.
+
+
+
+
+
+§ 9. REKLAMACJE
+
+1. Odbiorca ma prawo do składania reklamacji dotyczących realizacji Umowy,
+   w szczególności w zakresie:
+   a) rozliczeń za pobraną energię elektryczną;
+   b) prawidłowości wystawionych faktur;
+   c) jakości obsługi klienta.
+
+2. Reklamacje mogą być składane:
+   a) pisemnie — na adres siedziby Sprzedawcy: ul. Marszałkowska 115,
+      00-102 Warszawa;
+   b) osobiście — w punkcie obsługi klienta Sprzedawcy;
+   c) telefonicznie — pod numerem infolinii: 22 515 0 515;
+   d) elektronicznie — za pośrednictwem formularza kontaktowego na stronie
+      internetowej Sprzedawcy: www.polskiprad.pl/kontakt;
+   e) za pośrednictwem poczty elektronicznej: bok@polskiprad.pl.
+
+3. Reklamacja powinna zawierać:
+   a) dane identyfikacyjne Odbiorcy (imię, nazwisko, adres, numer klienta);
+   b) numer Umowy lub PPE;
+   c) opis przedmiotu reklamacji;
+   d) oczekiwany sposób rozpatrzenia reklamacji;
+   e) podpis Odbiorcy (w przypadku reklamacji pisemnej).
+
+4. Sprzedawca rozpatruje reklamację w terminie 14 dni od dnia jej otrzymania.
+   W przypadku konieczności uzyskania dodatkowych informacji, termin
+   rozpatrzenia reklamacji może zostać przedłużony, jednakże łączny termin
+   rozpatrzenia reklamacji nie może przekroczyć 30 dni.
+
+5. O wyniku rozpatrzenia reklamacji Sprzedawca informuje Odbiorcę w formie
+   pisemnej lub elektronicznej.
+
+6. W przypadku nieuwzględnienia reklamacji Odbiorca ma prawo do:
+   a) zwrócenia się do Koordynatora do spraw negocjacji przy Prezesie URE;
+   b) wystąpienia z wnioskiem o rozstrzygnięcie sporu do Prezesa URE;
+   c) skorzystania z pomocy rzecznika konsumentów;
+   d) skierowania sprawy do sądu powszechnego.
+
+
+§ 10. OCHRONA DANYCH OSOBOWYCH (RODO)
+
+1. Administratorem danych osobowych Odbiorcy jest PolskiPrąd sp. z o.o.
+   z siedzibą w Warszawie, ul. Marszałkowska 115, 00-102 Warszawa.
+
+2. W sprawach dotyczących ochrony danych osobowych Odbiorca może kontaktować
+   się z Inspektorem Ochrony Danych pod adresem e-mail: iod@polskiprad.pl
+   lub pisemnie na adres siedziby Administratora z dopiskiem „IOD".
+
+3. Dane osobowe Odbiorcy przetwarzane są w celu:
+   a) zawarcia i realizacji niniejszej Umowy (art. 6 ust. 1 lit. b RODO);
+   b) wypełnienia obowiązków prawnych ciążących na Administratorze
+      (art. 6 ust. 1 lit. c RODO);
+   c) dochodzenia lub obrony przed roszczeniami (art. 6 ust. 1 lit. f RODO).
+
+4. Odbiorca posiada prawo do:
+   a) dostępu do swoich danych osobowych;
+   b) sprostowania danych osobowych;
+   c) usunięcia danych osobowych;
+   d) ograniczenia przetwarzania danych osobowych;
+   e) przenoszenia danych osobowych;
+   f) wniesienia sprzeciwu wobec przetwarzania danych osobowych;
+   g) wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.
+
+5. Dane osobowe Odbiorcy mogą być przekazywane następującym kategoriom
+   odbiorców: OSD, podmiotom świadczącym usługi na rzecz Administratora,
+   organom administracji publicznej.
+
+6. Dane osobowe Odbiorcy będą przetwarzane przez okres obowiązywania Umowy,
+   a po jej zakończeniu — przez okres wymagany przepisami prawa.
+
+7. Podanie danych osobowych jest dobrowolne, ale niezbędne do zawarcia
+   i realizacji Umowy.
+
+
+§ 11. POSTANOWIENIA KOŃCOWE
+
+1. W sprawach nieuregulowanych niniejszą Umową zastosowanie mają przepisy
+   Prawa energetycznego, Kodeksu cywilnego oraz inne właściwe przepisy prawa
+   powszechnie obowiązującego.
+
+2. Wszelkie zmiany niniejszej Umowy wymagają formy pisemnej pod rygorem
+   nieważności.
+
+3. Wszelkie zawiadomienia i oświadczenia związane z realizacją Umowy powinny
+   być kierowane na adresy Stron wskazane w komparycji Umowy.
+
+4. Spory powstałe na tle realizacji niniejszej Umowy Strony będą starały się
+   rozstrzygnąć polubownie. W przypadku braku porozumienia spory podlegają
+   rozstrzygnięciu przez sąd powszechny właściwy dla miejsca zamieszkania
+   Odbiorcy.
+
+5. Umowa została sporządzona w dwóch jednobrzmiących egzemplarzach, po jednym
+   dla każdej ze Stron.
+
+6. Integralną część niniejszej Umowy stanowią następujące załączniki:
+   a) Załącznik nr 1 — Cennik energii elektrycznej dla odbiorców
+      w gospodarstwach domowych na rok 2025;
+   b) Załącznik nr 2 — Klauzula informacyjna RODO.
+
+7. Odbiorca potwierdza, że zapoznał się z treścią Umowy, rozumie jej
+   postanowienia i akceptuje je bez zastrzeżeń.
+
+
+    _________________________              _________________________
+          SPRZEDAWCA                             ODBIORCA
+     Tomasz Kamiński                        Piotr Dąbrowski
+     Kierownik Działu Sprzedaży
+
+Bielsko-Biała, dnia 22 czerwca 2025 r.

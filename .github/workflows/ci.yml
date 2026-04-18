@@ -16,12 +16,4 @@ jobs:
           python-version: "3.12"
       - run: pip install -e ".[dev]"
       - run: ruff check src/python tests/python
-      - run: pytest
-
-  rust:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: dtolnay/rust-toolchain@stable
-      - run: cargo check
-      - run: cargo test
+      - run: pytest -m "not integration and not e2e"

@@ -1,0 +1,216 @@
+# AI-TAURON MVP — Specyfikacja naruszeń i dokumentów testowych
+# 10 dokumentów: 2 akty prawne (real) + 3 OWU + 5 umów (syntetyczne)
+
+violation_types:
+  V01:
+    name: "Zbyt długi okres wypowiedzenia"
+    regulation: "Art. 4j ust. 3a Prawo energetyczne"
+    severity: HIGH
+    description: "Okres wypowiedzenia przekracza dopuszczalny 1 miesiąc"
+
+  V02:
+    name: "Brak informacji o prawie odstąpienia 14 dni"
+    regulation: "Art. 27 ustawy o prawach konsumenta"
+    severity: HIGH
+    description: "Brak pouczenia o prawie odstąpienia od umowy w ciągu 14 dni"
+
+  V03:
+    name: "Odwołanie do nieaktualnej taryfy"
+    regulation: "Art. 5 ust. 2 pkt 1 Prawo energetyczne"
+    severity: MEDIUM
+    description: "Umowa odwołuje się do taryfy, która nie jest aktualnie zatwierdzona"
+
+  V04:
+    name: "Brak obowiązków informacyjnych przedkontraktowych"
+    regulation: "Art. 5 ust. 4 PE + Art. 12 ustawy o prawach konsumenta"
+    severity: HIGH
+    description: "Brak wymaganych informacji przedkontraktowych"
+
+  V05:
+    name: "Klauzula jednostronnej zmiany ceny"
+    regulation: "Art. 385³ pkt 20 Kodeks cywilny"
+    severity: HIGH
+    description: "Klauzula abuzywna — jednostronna zmiana ceny bez podstawy"
+
+  V06:
+    name: "Brak procedury reklamacyjnej"
+    regulation: "Art. 5 ust. 2 pkt 4 Prawo energetyczne"
+    severity: MEDIUM
+    description: "Brak lub niepełna procedura reklamacyjna"
+
+  V07:
+    name: "Nieprawidłowy okres rozliczeniowy"
+    regulation: "Art. 6 ust. 2 Prawo energetyczne"
+    severity: LOW
+    description: "Okres rozliczeniowy niezgodny z rozporządzeniem taryfowym"
+
+  V08:
+    name: "Brak informacji o czasie trwania umowy"
+    regulation: "Art. 5 ust. 2 pkt 2 Prawo energetyczne"
+    severity: MEDIUM
+    description: "Brak informacji o czasie trwania i warunkach przedłużenia"
+
+  V09:
+    name: "Wygórowana kara za wcześniejsze rozwiązanie"
+    regulation: "Art. 4j ust. 3a PE + Art. 385³ KC"
+    severity: HIGH
+    description: "Rażąco wygórowana kara umowna za wcześniejsze rozwiązanie"
+
+  V10:
+    name: "Brak informacji o strukturze paliw"
+    regulation: "Art. 5 ust. 6b Prawo energetyczne"
+    severity: LOW
+    description: "Brak informacji o strukturze paliw wykorzystywanych do wytwarzania energii"
+
+  V11:
+    name: "Klauzula wyłączająca drogę sądową"
+    regulation: "Art. 385³ pkt 23 Kodeks cywilny"
+    severity: MEDIUM
+    description: "Narzucenie arbitrażu lub wyłączenie drogi sądowej"
+
+  V12:
+    name: "Brak numeru punktu poboru energii"
+    regulation: "Art. 5 ust. 2 Prawo energetyczne"
+    severity: LOW
+    description: "Umowa nie zawiera numeru PPE"
+
+documents:
+  # --- Akty prawne (real, z ISAP) ---
+  - id: prawo_energetyczne
+    type: legal_act
+    format: pdf
+    source: isap
+    isap_id: "DU/2026/43"
+    description: "Prawo energetyczne — tekst jednolity"
+
+  - id: prawa_konsumenta
+    type: legal_act
+    format: pdf
+    source: isap
+    isap_id: "DU/2024/1796"
+    description: "Ustawa o prawach konsumenta — tekst jednolity"
+
+  # --- OWU (syntetyczne) ---
+  - id: owu_sprzedaz_v1
+    type: owu
+    contract_type: sprzedaz
+    consumer: true
+    tariff_group: G11
+    format: docx
+    violations: []
+    description: "OWU sprzedaży energii — w pełni zgodne (true negative)"
+
+  - id: owu_sprzedaz_v2
+    type: owu
+    contract_type: sprzedaz
+    consumer: true
+    tariff_group: G11
+    format: docx
+    violations:
+      - type: V01
+        location: "Art. 12 ust. 3"
+        detail: "Okres wypowiedzenia 3 miesiące zamiast 1 miesiąca"
+      - type: V05
+        location: "Art. 8 ust. 2"
+        detail: "Sprzedawca zastrzega prawo do jednostronnej zmiany ceny z 7-dniowym wyprzedzeniem"
+      - type: V06
+        location: "Art. 15"
+        detail: "Brak procedury reklamacyjnej — tylko ogólne odesłanie do Regulaminu"
+    description: "OWU sprzedaży energii — 3 naruszenia"
+
+  - id: owu_kompleksowa_v1
+    type: owu
+    contract_type: kompleksowa
+    consumer: true
+    tariff_group: G12
+    format: docx
+    violations:
+      - type: V02
+        location: "brak sekcji"
+        detail: "Brak jakiejkolwiek informacji o prawie do odstąpienia"
+      - type: V04
+        location: "brak sekcji"
+        detail: "Brak obowiązków informacyjnych przedkontraktowych"
+      - type: V08
+        location: "Art. 3"
+        detail: "Brak informacji o automatycznym przedłużeniu umowy"
+      - type: V11
+        location: "Art. 20 ust. 2"
+        detail: "Wszystkie spory rozstrzyga sąd arbitrażowy w Katowicach"
+    description: "OWU umowy kompleksowej — 4 naruszenia"
+
+  # --- Umowy szczegółowe (syntetyczne) ---
+  - id: umowa_sprzedaz_01
+    type: contract
+    contract_type: sprzedaz
+    consumer: true
+    tariff_group: G11
+    format: pdf
+    violations: []
+    description: "Umowa sprzedaży — zgodna (true negative)"
+
+  - id: umowa_sprzedaz_02
+    type: contract
+    contract_type: sprzedaz
+    consumer: true
+    tariff_group: G11
+    format: pdf
+    violations:
+      - type: V01
+        location: "§ 7 ust. 2"
+        detail: "Okres wypowiedzenia 90 dni"
+      - type: V03
+        location: "§ 4 ust. 1"
+        detail: "Odwołanie do taryfy G11-2022 zatwierdzonej decyzją z 2022 r."
+      - type: V09
+        location: "§ 7 ust. 4"
+        detail: "Kara umowna 500 zł za wcześniejsze rozwiązanie"
+    description: "Umowa sprzedaży — 3 naruszenia"
+
+  - id: umowa_sprzedaz_03
+    type: contract
+    contract_type: sprzedaz
+    consumer: true
+    tariff_group: G11
+    format: pdf
+    violations:
+      - type: V02
+        location: "brak sekcji § 8"
+        detail: "Brak informacji o 14-dniowym prawie odstąpienia"
+      - type: V04
+        location: "brak sekcji"
+        detail: "Brak informacji przedkontraktowych wymaganych ustawą"
+    description: "Umowa sprzedaży — 2 naruszenia (ochrona konsumenta)"
+
+  - id: umowa_dystrybucja_01
+    type: contract
+    contract_type: dystrybucja
+    consumer: true
+    tariff_group: G11
+    format: pdf
+    violations: []
+    description: "Umowa dystrybucji — zgodna (true negative)"
+
+  - id: umowa_kompleksowa_01
+    type: contract
+    contract_type: kompleksowa
+    consumer: true
+    tariff_group: G12
+    format: pdf
+    violations:
+      - type: V01
+        location: "§ 7 ust. 2"
+        detail: "Okres wypowiedzenia 90 dni"
+      - type: V03
+        location: "§ 4 ust. 1"
+        detail: "Odwołanie do taryfy G12-2023"
+      - type: V05
+        location: "§ 4 ust. 5"
+        detail: "Dostawca może zmienić cenę z 7-dniowym wyprzedzeniem"
+      - type: V07
+        location: "§ 4 ust. 3"
+        detail: "Okres rozliczeniowy kwartalny bez wskazania podstawy"
+      - type: V10
+        location: "brak"
+        detail: "Brak informacji o strukturze paliw w załączniku"
+    description: "Umowa kompleksowa — 5 naruszeń (stress test)"
