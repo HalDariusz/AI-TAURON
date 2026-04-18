@@ -59,7 +59,7 @@ ryzykiem regulacyjnym lub podstawą reklamacji klientów.
 ### Szybki start (fresh install)
 
 ```bash
-git clone <repo-url> AI-TAURON
+git clone https://github.com/HalDariusz/AI-TAURON.git
 cd AI-TAURON
 ./scripts/install.sh install    # infra + HLF + Python deps
 ./scripts/install.sh start      # uruchom API + dashboard
