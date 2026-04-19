@@ -6,8 +6,11 @@ pod kątem zgodności z przepisami prawa energetycznego, ochrony konsumentów i 
 ## Opis projektu
 
 AlICjA analizuje dokumenty (umowy sprzedaży energii, OWU, umowy kompleksowe)
+
 porównując ich klauzule z obowiązującymi przepisami prawa. System wykrywa
+
 niezgodności, ocenia ich wagę i generuje rekomendacje zmian — zanim staną się
+
 ryzykiem regulacyjnym lub podstawą reklamacji klientów.
 
 ### Kluczowe cechy
