@@ -197,9 +197,9 @@ AlICjA is designed to integrate with **TAURON's private blockchain**.
   │Qdrant│ │  PG  │ │ TAURON Blockchain│
   │(RAG) │ │(data)│ │  (private)       │
   └──────┘ └──────┘ │                  │
-                     │  hash + metadata │
-                     │  per report      │
-                     └──────────────────┘
+                    │  hash + metadata │
+                    │  per report      │
+                    └──────────────────┘
 ```
 
 ### Blockchain value in strategic context
@@ -290,23 +290,23 @@ AlICjA is designed to integrate with **TAURON's private blockchain**.
 ## 8. SUMMARY
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   AlICjA = savings + security + speed + audit                   │
-│                                                                 │
-│   ✅ 20x faster compliance analysis (days → minutes)            │
-│   ✅ 9x ROI in the first year (~PLN 3.6M in benefits)           │
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   AlICjA = savings + security + speed + audit                    │
+│                                                                  │
+│   ✅ 20x faster compliance analysis (days → minutes)             │
+│   ✅ 9x ROI in the first year (~PLN 3.6M in benefits)            │
 │   ✅ Regulatory risk mitigation (penalties up to 10% of turnover)│
-│   ✅ TAURON blockchain = immutable audit trail                  │
-│   ✅ 100% on-premise (GDPR, cybersecurity)                      │
-│   ✅ Directly from strategy: digitization + AI + ESG + customer │
-│                                                                 │
-│   Cost: ~PLN 400K (Year 1) → ~PLN 250K (Year 2+)               │
-│   Benefit: ~PLN 3.6M/year + penalty mitigation >PLN 10M        │
-│                                                                 │
-│   "A single URE penalty costs more than 10 years of AlICjA"    │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+│   ✅ TAURON blockchain = immutable audit trail                   │
+│   ✅ 100% on-premise (GDPR, cybersecurity)                       │
+│   ✅ Directly from strategy: digitization + AI + ESG + customer  │
+│                                                                  │
+│   Cost: ~PLN 400K (Year 1) → ~PLN 250K (Year 2+)                 │
+│   Benefit: ~PLN 3.6M/year + penalty mitigation >PLN 10M          │
+│                                                                  │
+│   "A single URE penalty costs more than 10 years of AlICjA"      │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
