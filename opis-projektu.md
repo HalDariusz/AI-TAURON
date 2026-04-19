@@ -1,7 +1,9 @@
 # AlICjA — AI Context Analisator
 
 **Nazwa projektu:** AlICjA (AI Context Analisator)
+
 **Nazwa dla użytkownika:** Ciocia ALA
+
 **Kontekst biznesowy:** AI Asystent compliance — „Ciocia ALA" pomaga specjalistom
 i prawnikom w automatycznej weryfikacji zgodności dokumentów z przepisami prawa.
 
