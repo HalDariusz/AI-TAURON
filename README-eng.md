@@ -307,4 +307,4 @@ Internal project — on-premise deployment only.
 
 ## Contact
 
-AI-TAURON R&D Team
+hal.dariusz.nowak@gmail.com

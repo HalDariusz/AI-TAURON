@@ -306,4 +306,4 @@ Projekt wewnętrzny — on-premise deployment.
 
 ## Kontakt
 
-AI-TAURON R&D Team
+hal.dariusz.nowak@gmail.com
