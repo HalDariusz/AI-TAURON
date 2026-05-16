@@ -4,37 +4,39 @@ version = "0.1.0"
 description = "AI-TAURON"
 requires-python = ">=3.11"
 dependencies = [
-    # RAG framework
-    "llama-index>=0.12",
-    "llama-index-vector-stores-qdrant>=0.4",
-    "llama-index-llms-ollama>=0.5",
-    "llama-index-embeddings-huggingface>=0.5",
-    # MLOps
-    "mlflow>=2.18",
-    # Vector DB
-    "qdrant-client>=1.12",
-    # Document processing
-    "docling>=2.14",
-    "pdfplumber>=0.11",
-    # Embeddings
-    "sentence-transformers>=3.3",
-    # API
+    # API + persistence (lightweight, pure-Python wheels available everywhere)
     "fastapi>=0.115",
     "uvicorn>=0.34",
     "python-multipart>=0.0.18",
+    "pydantic>=2.0",
     "pydantic-settings>=2.7",
-    # Observability
-    "langfuse>=2.50",
-    # Persistence
     "asyncpg>=0.30",
     "sqlalchemy[asyncio]>=2.0",
 ]
 
 [project.optional-dependencies]
-dev = [
+# Heavy ML/document-processing stack — requires native build tools in some envs.
+# Install for production: pip install -e ".[ml]"
+ml = [
+    "llama-index>=0.12",
+    "llama-index-vector-stores-qdrant>=0.4",
+    "llama-index-llms-ollama>=0.5",
+    "llama-index-embeddings-huggingface>=0.5",
+    "mlflow>=2.18",
+    "qdrant-client>=1.12",
+    "docling>=2.14",
+    "pdfplumber>=0.11",
+    "sentence-transformers>=3.3",
+    "langfuse>=2.50",
+]
+# Minimal deps for CI unit tests — no native build requirements.
+test = [
     "pytest>=8.0",
     "ruff>=0.4",
     "httpx>=0.28",
+]
+dev = [
+    "ai-tauron[ml,test]",
 ]
 ui = [
     "streamlit>=1.40",
