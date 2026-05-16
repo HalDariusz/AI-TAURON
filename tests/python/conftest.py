@@ -1,4 +1,5 @@
 import pytest
+
 from src.python.domain.models import Document, DocumentType
 
 SAMPLE_LEGAL_TEXT = """\
