@@ -1,5 +1,5 @@
 import pytest
-from src.domain.models import Document, DocumentType
+from src.python.domain.models import Document, DocumentType
 
 SAMPLE_LEGAL_TEXT = """\
 Rozdział I

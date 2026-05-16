@@ -1,7 +1,7 @@
 """Tests for structure-aware chunker on Polish legal documents."""
 
-from src.adapters.ingestion.chunker import StructureAwareChunker
-from src.domain.models import Document, DocumentType
+from src.python.adapters.ingestion.chunker import StructureAwareChunker
+from src.python.domain.models import Document, DocumentType
 
 
 def test_chunker_splits_legal_act_by_articles(sample_legal_document):
