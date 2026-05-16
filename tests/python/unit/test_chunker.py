@@ -58,8 +58,9 @@ def test_chunker_no_context_prefix_when_disabled(sample_contract_document):
 
     for chunk in chunks:
         if chunk.metadata.section_hierarchy:
-            # Text should not start with hierarchy prefix
-            assert not chunk.text.startswith(" > ".join(chunk.metadata.section_hierarchy))
+            # The overlap_context prefix is "hierarchy > path\n\n" — check that format is absent
+            prefix_with_newlines = " > ".join(chunk.metadata.section_hierarchy) + "\n\n"
+            assert not chunk.text.startswith(prefix_with_newlines)
 
 
 def test_chunker_token_count_set(sample_legal_document):
