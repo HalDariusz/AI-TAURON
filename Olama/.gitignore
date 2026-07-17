@@ -1,0 +1,6 @@
+# nigdy nie commituj klucza prywatnego ani stanu tunelu / serwera UI
+id_ed25519_ollama
+.tunnel.pid
+.tunnel.port
+.ui.pid
+.ui.port
