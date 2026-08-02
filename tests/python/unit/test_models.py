@@ -1,6 +1,6 @@
 """Tests for domain models."""
 
-from src.domain.models import (
+from src.python.domain.models import (
     ComplianceReport,
     Document,
     DocumentType,

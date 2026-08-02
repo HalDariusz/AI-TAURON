@@ -1,5 +1,21 @@
 import pytest
-from src.domain.models import Document, DocumentType
+
+from src.python.domain.models import Document, DocumentType
+
+
+@pytest.fixture(autouse=True)
+def mock_tokenizer(monkeypatch):
+    """Replace HuggingFace tokenizer with a fast word-count approximation.
+
+    Avoids downloading sdadas/mmlw-roberta-large from HuggingFace in unit tests.
+    The approximation (words * 1.3) is good enough to exercise chunking logic.
+    """
+    from src.python.adapters.ingestion import chunker as chunker_mod
+
+    def _fast_count(self, text: str) -> int:
+        return max(1, int(len(text.split()) * 1.3))
+
+    monkeypatch.setattr(chunker_mod.StructureAwareChunker, "_count_tokens", _fast_count)
 
 SAMPLE_LEGAL_TEXT = """\
 Rozdział I
